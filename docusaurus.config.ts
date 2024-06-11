@@ -1,22 +1,26 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import type { Configuration } from 'webpack';
+
+
+//https://stackoverflow.com/questions/60783595/is-there-a-way-to-have-two-docs-in-docusaurus-2
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'CONVERGENCIA.XYZ',
+  tagline: 'Banco de conhecimento da comunidade do Centro de Informática da UFPB',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://convergencia.xyz/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'convergencia-xyz', // Usually your GitHub org/user name.
+  projectName: 'portal', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -25,27 +29,27 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt',
+    locales: ['pt'],
   },
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       {
         docs: {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/convergencia-xyz/portal',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/convergencia-xyz/portal',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -53,17 +57,36 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  plugins: [
+    
 
+    
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'guias',
+        path: 'content/guias',
+        routeBasePath: 'guias',
+        sidebarPath: 'sidebars.ts',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'comunidade',
+        path: 'content/comunidade',
+        routeBasePath: 'comunidade',
+        sidebarPath: 'sidebars.ts',
+      },             
+    ]
+  ],
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      title: 'CONVERGENCIA.XYZ',
       items: [
+/*        
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
@@ -71,8 +94,21 @@ const config: Config = {
           label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+*/
         {
-          href: 'https://github.com/facebook/docusaurus',
+          to: '/guias/',    // ./docs/Intro.md
+          label: 'Guias',
+          position: 'left',
+          activeBaseRegex: `/guias/`,
+        },        
+        {
+          to: '/comunidade/',    // ./docs/Intro.md
+          label: 'Comunidade',
+          position: 'left',
+          activeBaseRegex: `/comunidade/`,
+        },        
+        {
+          href: 'https://github.com/convergencia-xyz/portal',
           label: 'GitHub',
           position: 'right',
         },
@@ -82,46 +118,42 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Projetos',
           items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
+            { label: 'Code Sandbox', to: '/'},
+            { label: 'Fluxograma', to: '/'},
+            { label: 'Mobilidade Urbana', to: '/'},
           ],
         },
         {
-          title: 'Community',
+          title: 'Contato',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'CONVERGENCIA.XYZ',
+              href: '/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Centro de Informática - UFPB',
+              href: '/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'UFPB',
+              href: '/',
             },
+
           ],
         },
         {
-          title: 'More',
+          title: 'Mais',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/convergencia-xyz/portal',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} <b>CONVERGENCIA.XYZ</b>. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

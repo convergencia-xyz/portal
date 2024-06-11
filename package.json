@@ -17,17 +17,26 @@
   "dependencies": {
     "@docusaurus/core": "3.3.2",
     "@docusaurus/preset-classic": "3.3.2",
+    "@mantine/core": "^7.10.1",
+    "@mantine/hooks": "^7.10.1",
     "@mdx-js/react": "^3.0.0",
+    "@tabler/icons-react": "^3.5.0",
     "clsx": "^2.0.0",
+    "css-loader": "^7.1.2",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-type-animation": "^3.2.0",
+    "style-loader": "^4.0.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240605.0",
     "@docusaurus/module-type-aliases": "3.3.2",
     "@docusaurus/tsconfig": "3.3.2",
     "@docusaurus/types": "3.3.2",
+    "postcss": "^8.4.38",
+    "postcss-preset-mantine": "^1.15.0",
+    "postcss-simple-vars": "^7.0.1",
     "typescript": "~5.2.2",
     "wrangler": "^3.60.0"
   },
