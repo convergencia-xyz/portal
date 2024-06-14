@@ -1,28 +1,21 @@
 on: [push]
-
 jobs:
-  publish:
+  deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: read
       deployments: write
-    name: Publish to Cloudflare Pages
+    name: Deploy to Cloudflare Pages
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
-      # Run a build step here if your project requires
+      # Run your project's build step
       - name: Build
         run: npm install && npm run build
-
-      - name: Publish to Cloudflare Pages
+      - name: Publish
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: portal
-          directory: build
-          # By default this will be the branch which triggered this workflow
-          branch: master
-          # Optional: Change the Wrangler version, allows you to point to a specific version or a tag such as `beta`
-          wranglerVersion: '3'
+          projectName: portal # e.g. 'my-project'
+          directory: build # e.g. 'dist'
