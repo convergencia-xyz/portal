@@ -8,8 +8,6 @@ sidebar_position: 1
 
 Este guia tem como objetivo ajudá-los a configurar suas contas de e-mail e ferramentas online essenciais para sua jornada acadêmica e profissional. Ao dominar essas ferramentas, você estará bem equipado para colaborar eficientemente em projetos, acessar recursos educacionais e desenvolver suas habilidades técnicas.
 
-## Recursos Essenciais
-
 ### SIGAA: E-mail institucional
 O SIGAA oferece um e-mail institucional que é essencial para a comunicação dentro da universidade e para acessar serviços e softwares acadêmicos. Saiba como configurar o seu [CLICANDO AQUI](./email-academico.md).
 
