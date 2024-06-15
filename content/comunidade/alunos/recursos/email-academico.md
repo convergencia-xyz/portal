@@ -1,4 +1,4 @@
-## E-mail acadêmico no SIGAA
+## E-mail acadêmico
 
 Ter um e-mail institucional através do SIGAA traz várias vantagens, especialmente para estudantes e professores universitários. Ele não apenas formaliza a comunicação dentro do ambiente acadêmico, mas também pode ser requisito para acessar determinados recursos educacionais, publicações e softwares acadêmicos com descontos ou gratuitamente.
 
@@ -13,7 +13,3 @@ Ter um e-mail institucional através do SIGAA traz várias vantagens, especialme
 > Extra
 > - Vídeo Tutorial: [Criar e-mail institucional](https://youtu.be/f5KcaIaYuL4)
 
-### Sugestões
-- Configure o redirecionamento do seu e-mail acadêmico para o seu e-mail pessoal, para não perder nenhuma comunicação importante.
-
-(instruções para configurar redirecionamento)
