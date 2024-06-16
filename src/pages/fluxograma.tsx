@@ -5,13 +5,9 @@ import { useDisclosure } from "@mantine/hooks";
 import "@mantine/core/styles.css";
 import {
   MantineProvider,
-  Grid,
   Stack,
-  Button,
   SimpleGrid,
-  Chip,
   Card,
-  Image,
   rem,
   Text,
   Badge,
@@ -45,12 +41,12 @@ interface IBibliografia {
   complementar: IReferenciaBibliografica[];
 }
 
-interface IDependencias {
-    nome: string;
-    url?: string;
+interface IDependencia {
+  nome: string;
+  url?: string;
 }
 
-interface IMateria {
+interface IDisciplina {
   nome: string;
   horas: number;
   creditos: number;
@@ -61,11 +57,12 @@ interface IMateria {
   periodo?: number;
   departamento?: string;
   url?: string;
-  dependencias?: IDependencias[];
+  dependencias?: IDependencia[];
+  codigos?: string[];
 }
 
 interface IPeriodo {
-  materias: IMateria[];
+  disciplinas: IDisciplina[];
   nome: string;
 }
 
@@ -74,10 +71,10 @@ interface IFluxograma {
   titulo: string;
 }
 
-const Materia = (materia: IMateria) => {
+const Disciplina = (disciplina: IDisciplina) => {
   const [opened, { open, close }] = useDisclosure(false);
 
-  const icon = materia.concluida ? (
+  const icon = disciplina.concluida ? (
     <IconCircleCheck
       color="green"
       style={{
@@ -90,42 +87,74 @@ const Materia = (materia: IMateria) => {
     />
   ) : undefined;
 
-
-  const ementa = {conteudos: [
-    {nome: "Introdução à Engenharia de Software"},
-    {nome: "Processos de Software"},
-    {nome: "Modelos de Processos de Software"},
-    {nome: "Engenharia de Requisitos"},
-  ]}
-
-  const periodo = 3
-
-  const departamento = "Matemática"
-
+  //mock
+  const ementa = {
+    conteudos: [
+      {
+        nome: "Introdução à Engenharia de Software",
+        url: "https://www.example.com/intro-engenharia-software",
+      },
+      { nome: "Processos de Software" },
+      { nome: "Modelos de Processos de Software" },
+      {
+        nome: "Engenharia de Requisitos",
+        url: "https://www.example.com/engenharia-requisitos",
+      },
+    ],
+  };
+  //mock
+  const periodo = 3;
+  //mock
+  const departamento = "Matemática";
+  //mock
   const bibliografia = {
     obrigatoria: [
-      {nome: "Pressman, R. S. Engenharia de Software. 6ª ed. McGraw-Hill, 2006."},
-      {nome: "Sommerville, I. Engenharia de Software. 9ª ed. Pearson, 2011."},
+      {
+        nome: "Pressman, R. S. Engenharia de Software. 6ª ed. McGraw-Hill, 2006.",
+        url: "https://www.example.com/pressman",
+      },
+      {
+        nome: "Sommerville, I. Engenharia de Software. 9ª ed. Pearson, 2011.",
+        url: "https://www.example.com/sommerville",
+      },
     ],
     complementar: [
-      {nome: "Bezerra, E. Engenharia de Software. 2ª ed. Pearson, 2011."},
-      {nome: "Briand, L. C. Engenharia de Software. LTC, 2005."},
-    ]
-
-  }
-
+      { nome: "Bezerra, E. Engenharia de Software. 2ª ed. Pearson, 2011." },
+      {
+        nome: "Briand, L. C. Engenharia de Software. LTC, 2005.",
+        url: "https://www.example.com/briand",
+      },
+    ],
+  };
+  //mock
   const dependencias = [
-    {nome: "Programação 1"},
-    {nome: "Estrutura de Dados"},
-  ]
-
-  materia = {...materia, ementa, periodo, departamento, bibliografia, dependencias}
+    { nome: "Programação 1", url: "https://www.example.com/programacao-1" },
+    {
+      nome: "Estrutura de Dados",
+      url: "https://www.example.com/estrutura-dados",
+    },
+  ];
+  //mock
+  const url = "https://www.ufpb.br";
+  //mock
+  const codigos = ["IMD0030", "IMD0031"];
+  //mock
+  disciplina = {
+    ...disciplina,
+    ementa,
+    periodo,
+    departamento,
+    bibliografia,
+    dependencias,
+    url,
+    codigos,
+  };
 
   return (
     <>
       <Modal
         opened={opened}
-        title={<Title order={3}>{materia.nome}</Title>}
+        title={<Title order={3}>{disciplina.nome}</Title>}
         onClose={close}
         centered
         size="auto"
@@ -133,68 +162,99 @@ const Materia = (materia: IMateria) => {
         <Divider />
         <br />
         <Stack gap="xs">
-        <Badge color={materia.concluida ? "green" : "indigo"}>
-          {materia.concluida ? "Concluído" : "Pendente"}
-        </Badge>        
-
-          <Text>
-            Carga: {materia.creditos} créditos ({materia.horas} horas)
-          </Text>
-          {materia.periodo ? <Text>Período: {materia.periodo}º</Text> : null}
-          {materia.departamento ? <Text>Departamento: {materia.departamento}</Text> : null}
-          {materia.ementa ? (
+          <Badge color={disciplina.concluida ? "green" : "indigo"}>
+            {disciplina.concluida ? "Concluído" : "Pendente"}
+          </Badge>
+          {disciplina.url ? (
             <Text>
-              Ementa:{" "}
-              <List withPadding listStyleType="disc">
-                {materia.ementa.conteudos.map((item, index) => (
-                  <List.Item key={index}>{item.nome}</List.Item>
-                ))}
-              </List>
+              <b>Página da disciplina:</b>{" "}
+              <a href={disciplina.url}>{disciplina.url}</a>
             </Text>
           ) : null}
-
-          {materia.categorias ? (
+          <Text>
+            <b>Carga:</b> {disciplina.creditos} créditos ({disciplina.horas}{" "}
+            horas)
+          </Text>
+          {disciplina.periodo ? (
             <Text>
-              Categorias:{" "}
+              <b>Período:</b> {disciplina.periodo}º
+            </Text>
+          ) : null}
+          {disciplina.departamento ? (
+            <Text>
+              <b>Departamento:</b> {disciplina.departamento}
+            </Text>
+          ) : null}
+          {disciplina.codigos ? (
+            <Text>
+              <b>Códigos:</b>{" "}
               <List withPadding listStyleType="disc">
-                {materia.categorias.map((item, index) => (
+                {disciplina.codigos.map((item, index) => (
                   <List.Item key={index}>{item}</List.Item>
                 ))}
               </List>
             </Text>
           ) : null}
-          {materia.dependencias ? (
+          {disciplina.ementa ? (
             <Text>
-              Dependências:{" "}
+              <b>Ementa:</b>{" "}
               <List withPadding listStyleType="disc">
-                {materia.dependencias.map((item, index) => (
-                  <List.Item key={index}>{item.nome}</List.Item>
-                ))}
-              </List>
-            </Text>
-          ) : null}          
-          {materia.bibliografia?.obrigatoria ? (
-            <Text>
-              Bibliografia Obrigatória:{" "}
-              <List withPadding listStyleType="disc">
-                {materia.bibliografia.obrigatoria.map((item, index) => (
-                  <List.Item key={index}>{item.nome}</List.Item>
+                {disciplina.ementa.conteudos.map((item, index) => (
+                  <List.Item key={index}>
+                    {item.url ? <a href={item.url}>{item.nome}</a> : item.nome}
+                  </List.Item>
                 ))}
               </List>
             </Text>
           ) : null}
-          {materia.bibliografia?.complementar ? (
+
+          {disciplina.categorias ? (
             <Text>
-              Bibliografia Complementar:{" "}
+              <b>Categorias:</b>{" "}
               <List withPadding listStyleType="disc">
-                {materia.bibliografia.complementar.map((item, index) => (
-                  <List.Item key={index}>{item.nome}</List.Item>
+                {disciplina.categorias.map((item, index) => (
+                  <List.Item key={index}>{item}</List.Item>
                 ))}
               </List>
             </Text>
-          ) : null}          
+          ) : null}
+          {disciplina.dependencias ? (
+            <Text>
+              <b>Dependências curriculares:</b>{" "}
+              <List withPadding listStyleType="disc">
+                {disciplina.dependencias.map((item, index) => (
+                  <List.Item key={index}>
+                    {item.url ? <a href={item.url}>{item.nome}</a> : item.nome}
+                  </List.Item>
+                ))}
+              </List>
+            </Text>
+          ) : null}
+          {disciplina.bibliografia?.obrigatoria ? (
+            <Text>
+              <b>Bibliografia Obrigatória:</b>{" "}
+              <List withPadding listStyleType="disc">
+                {disciplina.bibliografia.obrigatoria.map((item, index) => (
+                  <List.Item key={index}>
+                    {item.url ? <a href={item.url}>{item.nome}</a> : item.nome}
+                  </List.Item>
+                ))}
+              </List>
+            </Text>
+          ) : null}
+          {disciplina.bibliografia?.complementar ? (
+            <Text>
+              <b>Bibliografia Complementar:</b>{" "}
+              <List withPadding listStyleType="disc">
+                {disciplina.bibliografia.complementar.map((item, index) => (
+                  <List.Item key={index}>
+                    {item.url ? <a href={item.url}>{item.nome}</a> : item.nome}
+                  </List.Item>
+                ))}
+              </List>
+            </Text>
+          ) : null}
         </Stack>
-
       </Modal>
       <Card
         shadow="sm"
@@ -202,11 +262,12 @@ const Materia = (materia: IMateria) => {
         radius="md"
         withBorder
         style={{
+          cursor: "pointer",
           height: "100%",
           display: "flex",
           flexDirection: "column",
-          borderColor: materia.concluida ? "green" : undefined,
-          borderWidth: materia.concluida ? 2 : undefined,
+          borderColor: disciplina.concluida ? "green" : undefined,
+          borderWidth: disciplina.concluida ? 2 : undefined,
         }}
         onClick={open}
       >
@@ -220,7 +281,7 @@ const Materia = (materia: IMateria) => {
               textOverflow: "ellipsis",
             }}
           >
-            {materia.nome}
+            {disciplina.nome}
           </Text>
         </Group>
         <Text
@@ -233,7 +294,7 @@ const Materia = (materia: IMateria) => {
             whiteSpace: "nowrap",
           }}
         >
-          {materia.horas} h - {materia.creditos} c
+          {disciplina.horas} h - {disciplina.creditos} c
         </Text>
       </Card>
     </>
@@ -241,14 +302,14 @@ const Materia = (materia: IMateria) => {
 };
 
 const Periodo = (periodo: IPeriodo) => {
-  // se todos elementos de materias possuem a propriedade concluida, retorna true
-  const isPeriodoConcluido = periodo.materias.every(
-    (materia) => materia.concluida
+  // se todos elementos de disciplinas possuem a propriedade concluida, retorna true
+  const isPeriodoConcluido = periodo.disciplinas.every(
+    (disciplina) => disciplina.concluida
   );
 
-  //se pelo menos uma materia do periodo foi concluida, retorna true
-  const isPeriodoEmAndamento = periodo.materias.some(
-    (materia) => materia.concluida
+  //se pelo menos uma disciplina do periodo foi concluida, retorna true
+  const isPeriodoEmAndamento = periodo.disciplinas.some(
+    (disciplina) => disciplina.concluida
   );
 
   //color green se periodo concluido, yellow se em andamento e red se nao concluido
@@ -263,17 +324,13 @@ const Periodo = (periodo: IPeriodo) => {
       style={{ height: "100%" }} // Faz com que o Stack preencha todo o espaço vertical disponível
       gap="sm" // Espaçamento entre os Cards
     >
-      <Chip
-        defaultChecked={true}
-        icon={icon}
-        color={color}
-        type="radio"
-        radius="xs"
-      >
-        {periodo.nome}
-      </Chip>
-      {periodo.materias.map((materia, index) => (
-        <Materia key={index} {...materia} />
+      <div>
+        <Badge color={color} fullWidth radius="xs">
+          {periodo.nome}
+        </Badge>
+      </div>
+      {periodo.disciplinas.map((disciplina, index) => (
+        <Disciplina key={index} {...disciplina} />
       ))}
     </Stack>
   );
@@ -292,7 +349,7 @@ const Fluxograma = (fluxograma: IFluxograma) => {
   );
 };
 
-export default function Home(): JSX.Element {
+export default function Page(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout description="Banco de conhecimento do Centro de Informática da UFPB">
@@ -302,7 +359,7 @@ export default function Home(): JSX.Element {
           periodos={[
             {
               nome: "1º Período",
-              materias: [
+              disciplinas: [
                 {
                   nome: "Cálculo 1",
                   horas: 60,
@@ -337,7 +394,7 @@ export default function Home(): JSX.Element {
             },
             {
               nome: "2º Período",
-              materias: [
+              disciplinas: [
                 {
                   nome: "Cálculo 2",
                   horas: 60,
@@ -367,7 +424,7 @@ export default function Home(): JSX.Element {
             },
             {
               nome: "3º Período",
-              materias: [
+              disciplinas: [
                 {
                   nome: "Cálculo 3",
                   horas: 60,
@@ -397,7 +454,7 @@ export default function Home(): JSX.Element {
             },
             {
               nome: "4º Período",
-              materias: [
+              disciplinas: [
                 {
                   nome: "Programação 3",
                   horas: 60,
@@ -427,7 +484,7 @@ export default function Home(): JSX.Element {
             },
             {
               nome: "5º Período",
-              materias: [
+              disciplinas: [
                 {
                   nome: "Engenharia de Software 2",
                   horas: 60,
@@ -457,7 +514,7 @@ export default function Home(): JSX.Element {
             },
             {
               nome: "6º Período",
-              materias: [
+              disciplinas: [
                 {
                   nome: "Engenharia de Software 3",
                   horas: 60,
@@ -487,7 +544,7 @@ export default function Home(): JSX.Element {
             },
             {
               nome: "7º Período",
-              materias: [
+              disciplinas: [
                 {
                   nome: "Engenharia de Software 4",
                   horas: 60,
@@ -517,7 +574,7 @@ export default function Home(): JSX.Element {
             },
             {
               nome: "8º Período",
-              materias: [
+              disciplinas: [
                 {
                   nome: "Projeto de Conclusão de Curso",
                   horas: 60,

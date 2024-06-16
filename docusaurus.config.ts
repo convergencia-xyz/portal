@@ -78,7 +78,16 @@ const config: Config = {
         routeBasePath: 'comunidade',
         sidebarPath: 'sidebars.ts',
       },             
-    ]
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'disciplinas',
+        path: 'content/disciplinas',
+        routeBasePath: 'disciplinas',
+        sidebarPath: 'sidebars.ts',
+      },             
+    ]    
   ],
   themeConfig: {
     // Replace with your project's social card
@@ -106,7 +115,13 @@ const config: Config = {
           label: 'Comunidade',
           position: 'left',
           activeBaseRegex: `/comunidade/`,
-        },        
+        },   
+        {
+          to: '/disciplinas/',    // ./docs/Intro.md
+          label: 'Disciplinas',
+          position: 'left',
+          activeBaseRegex: `/disciplinas/`,
+        },               
         {
           href: 'https://github.com/convergencia-xyz/portal',
           label: 'GitHub',
