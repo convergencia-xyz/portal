@@ -1,0 +1,1553 @@
+[
+  {
+    "Nome": "C\u00e1lculo Vetorial e Geometria Anal\u00edtica",
+    "Carga": "04 cr\u00e9ditos (60 horas)",
+    "Departamento": "Matem\u00e1tica",
+    "Ementa": [
+      "Vetores; Retas e Planos",
+      "C\u00f4nicas e Qu\u00e1dricas",
+      "Espa\u00e7os Euclidianos",
+      "Matrizes"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Lima, E. L. \u201cGeometria Anal\u00edtica e \u00c1lgebra Linear\u201d. LTC, 2005;",
+      "Lima, E. L. \u201cCoordenadas no plano com as solu\u00e7\u00f5es dos exerc\u00edcios\u201d. 6\u00aa edi\u00e7\u00e3o. SBM, 2013;",
+      "Reis, G. L.; Silva, V. V. \u201cGeometria anal\u00edtica\u201d. 2\u00aa edi\u00e7\u00e3o, LTC, 1996."
+    ],
+    "Bibliografia_Complementar": [
+      "Feitosa, M. O. \u201cC\u00e1lculo Vetorial e Geometria Anal\u00edtica\u201d. 4a edi\u00e7\u00e3o, Atlas, 1976;",
+      "Camargo, I.; Boulos, P. \u201cGeometria Anal\u00edtica: um tratamento vetorial\u201d; 3\u00aa edi\u00e7\u00e3o, Pearson Education, \n2005;",
+      "Steinbruch, A.; Winterle, P. \u201c\u00c1lgebra Linear\u201d. Pearson Universidades, 1995;",
+      "Steinbruch, A.; Winterle, P. \u201cGeometria Anal\u00edtica\u201d. Pearson Universidades, 1995."
+    ]
+  },
+  {
+    "Nome": "C\u00e1lculo Diferencial e Integral I",
+    "Carga": "04 cr\u00e9ditos (60 horas)",
+    "Departamento": "Matem\u00e1tica",
+    "Ementa": [
+      "N\u00fameros reais",
+      "Fun\u00e7\u00f5es",
+      "Limites",
+      "Continuidade",
+      "Derivadas",
+      "Integrais"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Stewart, J. \u201cC\u00e1lculo. Volume 1\u201d, Cengage Learning. 2017;",
+      "\u00c1vila, G. \u201cC\u00e1lculo das Fun\u00e7\u00f5es de uma Vari\u00e1vel \u2013 Volume 1\u201d. 7\u00aa edi\u00e7\u00e3o, LTC, 2003;",
+      "Morettin, P.A.; Hazzan, S.; Bussab, W. \u201cC\u00e1lculo: Fun\u00e7\u00f5es de Uma e V\u00e1rias Vari\u00e1veis\u201d. 3\u00aa edi\u00e7\u00e3o, Saraiva, \n2016."
+    ],
+    "Bibliografia_Complementar": [
+      "Leithold, L. \u201c                                  \u2013 Volume 1\u201d. 3\u00aa edi\u00e7\u00e3o, Harbra, 1994;",
+      "Guidorizzi, H. L. \u201c                    - Volume 1\u201d, 6\u00aa edi\u00e7\u00e3o, LTC, 2018;",
+      "Guidorizzi, H. L. \u201c                    - Volume 2\u201d, 6\u00aa edi\u00e7\u00e3o, LTC, 2018;",
+      "Malta, I.; Pesco, S; Lopes, H. \u201cC\u00e1lculo a uma Vari\u00e1vel: Uma Introdu\u00e7\u00e3o ao C\u00e1lculo - Vol. 1\u201d. Elsevier, \n2015;",
+      "Malta, I.; Pesco, S; Lopes, H. \u201cC\u00e1lculo a uma Vari\u00e1vel: Derivada e Integral - Vol. 2\u201d. Elsevier, 2015."
+    ]
+  },
+  {
+    "Nome": "Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Hist\u00f3rico das linguagens de programa\u00e7\u00e3o",
+      "Descri\u00e7\u00e3o e constru\u00e7\u00e3o de algoritmos",
+      "Metodologia de \nprograma\u00e7\u00e3o",
+      "Introdu\u00e7\u00e3o a uma linguagem de programa\u00e7\u00e3o estruturada",
+      "Operadores, express\u00f5es e tipos elementares \nde dados",
+      "Estruturas de controle",
+      "Arrays simples e multidimensionais",
+      "Arquivos; Mecanismos de passagem de \npar\u00e2metros; procedimentos e fun\u00e7\u00f5es; recursividade; tipos definidos pelo programador e tipos abstratos e din\u00e2micos \nde dados"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Oliveira, U. \u201cProgramando em C - Volume I: Fundamentos\u201d. Ci\u00eancia Moderna, 2008;",
+      "Mizrahi, V.V. \u201cTreinamento em Linguagem C\u201d. 2\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2008;",
+      "Schildt, H. \u201cC: Completo e Total\u201d. 3\u00aa Edi\u00e7\u00e3o, Pearson Universidades, 1997."
+    ],
+    "Bibliografia_Complementar": [
+      "Sebesta, R.W. \u201cConceitos de Linguagens de Programa\u00e7\u00e3o\u201d. 11\u00aa edi\u00e7\u00e3o, Bookman, 2018;",
+      "Medina, M.; Fertig, C. \u201cAlgoritmos e Programa\u00e7\u00e3o. Teoria e Pr\u00e1tica\u201d. Novatec, 2005;",
+      "Banin, S.L. \u201cPython 3: Conceitos e aplica\u00e7\u00f5es: Uma abordagem did\u00e1tica\u201d. \u00c9rica, 2018."
+    ]
+  },
+  {
+    "Nome": "Introdu\u00e7\u00e3o ao Computador",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Hist\u00f3ria do desenvolvimento dos computadores",
+      "Sistema de computador",
+      "Componentes b\u00e1sicos",
+      "Aritm\u00e9tica \nComputacional",
+      "Representa\u00e7\u00e3o de dados",
+      "Elementos de software",
+      "Arquitetura de computadores",
+      "Opera\u00e7\u00f5es b\u00e1sicas \nnum computador hipot\u00e9tico",
+      "Dispositivos de entrada e sa\u00edda",
+      "E/S programada e por interrup\u00e7\u00e3o",
+      "CPU",
+      "Mem\u00f3ria",
+      "Mem\u00f3ria segmentada"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Norton, P. \u201cIntrodu\u00e7\u00e3o \u00e0 Inform\u00e1tica\u201d. 8\u00aa edi\u00e7\u00e3o, Pearson Universidade, 2004;",
+      "Monteiro, M. \u201cIntrodu\u00e7\u00e3o \u00e0 Organiza\u00e7\u00e3o de Computadores\u201d. 5\u00aa edi\u00e7\u00e3o, LTC, 2007;",
+      "Filho, R.N. \u201cNotas de aula de Introdu\u00e7\u00e3o ao Computador\u201d, UFPB."
+    ],
+    "Bibliografia_Complementar": [
+      "Gonick, L. \u201cIntrodu\u00e7\u00e3o ilustrada \u00e0 computa\u00e7\u00e3o\u201d. C\u00edrculo de Fogo, 1987;"
+    ]
+  },
+  {
+    "Nome": "Metodologia do Trabalho Cient\u00edfico",
+    "Carga": "03 cr\u00e9ditos (te\u00f3ricas: 45 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Conhecimento e ci\u00eancia",
+      "A ci\u00eancia moderna e o contexto sociocultural",
+      "Ci\u00eancia e m\u00e9todo cient\u00edfico",
+      "T\u00e9cnicas de estudo: t\u00e9cnicas de leitura, de resumir e elaborar fichamentos",
+      "Produ\u00e7\u00e3o cient\u00edfica e apresenta\u00e7\u00e3o \nest\u00e9tica de trabalhos acad\u00eamicos: position paper, resenhas, relat\u00f3rios, ensaios, artigos e monografias"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Andrade, M.M. \u201cIntrodu\u00e7\u00e3o \u00e0 Metodologia Cient\u00edfica\u201d. 10\u00aa edi\u00e7\u00e3o, Atlas, 2010;",
+      "Marconi, M.A.; Lakatos, E.M. \u201cFundamentos da metodologia cient\u00edfica\u201d. 8\u00aa edi\u00e7\u00e3o, Atlas, 2017;",
+      "Medeiros, J.B. \u201cReda\u00e7\u00e3o cient\u00edfica: a pr\u00e1tica de fichamentos, resumos, resenhas\u201d. 12\u00aa edi\u00e7\u00e3o, Atlas, 2014."
+    ],
+    "Bibliografia_Complementar": [
+      "Carvalho, A.M. \u201cAprendendo Metodologia Cient\u00edfica. Uma Orienta\u00e7\u00e3o Para Os Alunos De Gradua\u00e7\u00e3o\u201d. \n4\u00aa edi\u00e7\u00e3o, O Nome da Rosa, 2000;",
+      "Demo, P. \u201cMetodologia Do Conhecimento Cient\u00edfico\u201d. Atlas, 2000."
+    ]
+  },
+  {
+    "Nome": "Introdu\u00e7\u00e3o \u00e0 \u00c1lgebra Linear",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Matem\u00e1tica",
+    "Ementa": [
+      "Espa\u00e7os Vetoriais, Transforma\u00e7\u00f5es Lineares, Diagonaliza\u00e7\u00e3o de Operadores e Espa\u00e7o com Produto \nInterno"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Poole, D. \u201c\u00c1lgebra Linear\u201d, Thomson Learning, 2004;",
+      "Strang, G. \u201c\u00c1lgebra Linear e suas aplica\u00e7\u00f5es\u201d. 4\u00aa edi\u00e7\u00e3o, Cengage Learning, 2010;",
+      "Lima, E.L. \u201c\u00c1lgebra Linear\u201d. 9\u00aa edi\u00e7\u00e3o, IMPA, 2016."
+    ],
+    "Bibliografia_Complementar": [
+      "Poole, D. \u201c\u00c1lgebra linear: uma introdu\u00e7\u00e3o moderna\u201d, 2\u00aa edi\u00e7\u00e3o, Cengage Learning, 2016;",
+      "Boldrini, J.L.; Costa, S.I.R.; Figueiredo, V.L.; Wetzler, H.G. \u201c\u00c1lgebra Linear\u201d, 3\u00aa edi\u00e7\u00e3o. Harbra, 1986;",
+      "Steinbruch, A.; Winterle, P. \u201c\u00c1lgebra Linear\u201d. Pearson Universidades, 1995;"
+    ]
+  },
+  {
+    "Nome": "C\u00e1lculo Diferencial e Integral II",
+    "Carga": "04 cr\u00e9ditos (60 horas)",
+    "Departamento": "Matem\u00e1tica",
+    "Ementa": [
+      "Integral; Fun\u00e7\u00f5es de v\u00e1rias vari\u00e1veis, Limite; Continuidade; Derivada; Integrais"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Stewart, J. \u201cC\u00e1lculo. Volume 2\u201d. Cengage Learning. 2017;",
+      "\u00c1vila, G. \u201cC\u00e1lculo das Fun\u00e7\u00f5es de uma Vari\u00e1vel \u2013 Volume 2\u201d. 7\u00aa edi\u00e7\u00e3o, LTC, 2004;",
+      "Morettin, P.A.; Hazzan, S.; Bussab, W. \u201cC\u00e1lculo: Fun\u00e7\u00f5es de Uma e V\u00e1rias Vari\u00e1veis\u201d. 3\u00aa edi\u00e7\u00e3o, Saraiva, \n2016."
+    ],
+    "Bibliografia_Complementar": [
+      "Guidorizzi, H. L. \u201cUm curso de c\u00e1lculo - Volume 3\u201d, LTC, 2018;",
+      "Leithold, L. \u201cO C\u00e1lculo com Geometria Anal\u00edtica \u2013 Volume 2\u201d. 3\u00aa edi\u00e7\u00e3o, Harbra, 1994."
+    ]
+  },
+  {
+    "Nome": "Matem\u00e1tica Discreta",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Conjuntos, \u00c1lgebra de conjuntos, Conjuntos e N\u00fameros, Teoria dos N\u00fameros, Congru\u00eancias, Criptografia",
+      "Rela\u00e7\u00f5es, Fun\u00e7\u00f5es, Estruturas alg\u00e9bricas, Reticulados, \u00c1lgebra Booleana, T\u00e9cnicas de demonstra\u00e7\u00e3o de teoremas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Gersting, J.L.; \u201cFundamentos matem\u00e1ticos para a Ci\u00eancia da Computa\u00e7\u00e3o\u201d. 7\u00aa edi\u00e7\u00e3o, LTC, 2016;",
+      "Menezes, P.B.; \u201cMatem\u00e1tica discreta para Computa\u00e7\u00e3o e Inform\u00e1tica\u201d, 4\u00aa edi\u00e7\u00e3o, Bookman, 2013;",
+      "Scheinerman, E.R.; \u201cMatem\u00e1tica discreta: uma introdu\u00e7\u00e3o\u201d, 3\u00aa edi\u00e7\u00e3o, Cengage Learning, 2016."
+    ],
+    "Bibliografia_Complementar": [
+      "Szwarcfiter, J.L. \u201cGrafos e algoritmos computacionais\u201d. Campus, 1986;",
+      "Cormen, T. \u201cAlgoritmos: teoria e pr\u00e1tica\u201d, 3\u00aa edi\u00e7\u00e3o, Elsevier, 2012;",
+      "Wilson, R.J. \u201cIntroduction to graph theory\u201d. 5\u00aa edi\u00e7\u00e3o, Pearson, 2010;",
+      "West, D.B. \u201cIntroduction to graph theory\u201d. 2\u00aa edi\u00e7\u00e3o, Prentice Hall, 2000."
+    ]
+  },
+  {
+    "Nome": "Programa\u00e7\u00e3o Estruturada",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o \u00e0 linguagem C: tipos elementares; operadores e express\u00f5es",
+      "Estruturas de controle: decis\u00e3o e \nrepeti\u00e7\u00e3o",
+      "Ponteiros e fun\u00e7\u00f5es",
+      "Passagem por valor e refer\u00eancia",
+      "Recursividade",
+      "Arranjos e matrizes",
+      "Strings",
+      "Programa\u00e7\u00e3o multiarquivo",
+      "Processamento de arquivos",
+      "Tipos definidos pelo programador e tipos abstratos de \ndados; Aloca\u00e7\u00e3o din\u00e2mica de mem\u00f3ria",
+      "Sockets",
+      "Aplica\u00e7\u00f5es pr\u00e1ticas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Oliveira, U. \u201cProgramando em C - Volume I: Fundamentos\u201d. Ci\u00eancia Moderna, 2008;",
+      "Mizrahi, V.V. \u201cTreinamento em Linguagem C\u201d. 2\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2008;",
+      "Schildt, H. \u201cC: Completo e Total\u201d. 3\u00aa Edi\u00e7\u00e3o, Pearson Universidades, 1997."
+    ],
+    "Bibliografia_Complementar": [
+      "Sebesta, R.W. \u201cConceitos de Linguagens de Programa\u00e7\u00e3o\u201d. 11\u00aa edi\u00e7\u00e3o, Bookman, 2018;",
+      "Medina, M.; Fertig, C. \u201cAlgoritmos e Programa\u00e7\u00e3o. Teoria e Pr\u00e1tica\u201d. Novatec, 2005."
+    ]
+  },
+  {
+    "Nome": "Introdu\u00e7\u00e3o \u00e0 Ci\u00eancia de Dados",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Conceitos Fundamentais de Ci\u00eancia de Dados: Introdu\u00e7\u00e3o aos Dados, Outliers e Dados Faltantes",
+      "Minera\u00e7\u00e3o de Dados",
+      "Aprendizagem de M\u00e1quina e Aprendizagem Estat\u00edstica",
+      "Redes Neurais",
+      "Big Data",
+      "An\u00e1lise \nExplorat\u00f3ria de Dados: Tipos de Vari\u00e1veis, Distribui\u00e7\u00f5es de Frequ\u00eancias, Histogramas",
+      "Medidas de Posi\u00e7\u00e3o e \nDispers\u00e3o",
+      "Boxplot",
+      "Ferramentas de Tratamento, An\u00e1lise e Visualiza\u00e7\u00e3o de Dados: R (Visualiza\u00e7\u00e3o com ggplot2) e \nPython (Visualiza\u00e7\u00e3o com matplotlib)"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "McKinney, W.\u201cPython Para An\u00e1lise de Dados: Tratamento de Dados com Pandas, NumPy e IPython\u201d. \nNovatec, 2018;",
+      "Grus, J. \u201cData Science do zero: Primeiras regras com o Python\u201d. Alta Books, 2018;",
+      "Nelli, F. \u201cPython Data Analytics: With Pandas, NumPy, and Matplotlib\u201d. 2\u00aa edi\u00e7\u00e3o, Apress, 2018;",
+      "Janert, P.K. \u201cData Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data \nScientists\u201d. O\u2019Reilly, 2010;",
+      "Wickham, H. \u201cggplot2: Elegant Graphics for Data Analysis\u201d. 2\u00aa edi\u00e7\u00e3o, Springer, 2016;",
+      "Wickham, H.; Grolemund, G. \u201cR para Data Science\u201d. Alta Books., 2019."
+    ],
+    "Bibliografia_Complementar": [
+      "Rogel-Salazar, J. \u201cData science and analytics with Python\u201d. Chapman & Hall, 2017;",
+      "Mu\u00f1oz, L.I.; Segu\u00ed, S. \u201cIntroduction to Data Science: A Python Approach to Concepts\u201d. Springer, 2017;",
+      "Knaflic, C.N. \u201cStorytelling com Dados: um Guia Sobre Visualiza\u00e7\u00e3o de Dados Para Profissionais de \nNeg\u00f3cios\u201d. Alta Books, 2019."
+    ]
+  },
+  {
+    "Nome": "C\u00e1lculo Diferencial e Integral III",
+    "Carga": "04 cr\u00e9ditos (60 horas)",
+    "Departamento": "Matem\u00e1tica",
+    "Ementa": [
+      "Fun\u00e7\u00f5es de V\u00e1rias Vari\u00e1veis, Derivadas, Fun\u00e7\u00f5es Impl\u00edcitas, Integrais Duplas e Triplas, Integrais de Linha \ne Integrais de Superf\u00edcie"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "\u00c1vila, G. \u201cC\u00e1lculo: Fun\u00e7\u00f5es de V\u00e1rias Vari\u00e1veis \u2013 Volume 3\u201d. 5\u00aa edi\u00e7\u00e3o, LTC, 2002;",
+      "Stewart, J. \u201cC\u00e1lculo. Volume 2\u201d. Cengage Learning. 2017;",
+      "Pinto, D.; Morgado, M.C.F. \u201cC\u00e1lculo Diferencial e Integral de Fun\u00e7\u00f5es de V\u00e1rias Vari\u00e1veis\u201d. UFRJ, 2015."
+    ],
+    "Bibliografia_Complementar": [
+      "Leithold, L. \u201cO C\u00e1lculo com Geometria Anal\u00edtica \u2013 Volume 2\u201d. 3\u00aa edi\u00e7\u00e3o, Harbra, 1994;",
+      "Munen, M.A.; Foulis, D.J. \u201cC\u00e1lculo. Volume II\u201d. LTC, 1982."
+    ]
+  },
+  {
+    "Nome": "\u00c1lgebra Linear Computacional",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Fundamentos: Multiplica\u00e7\u00e3o Matriz-Vetor, Produto Interno, Matrizes e Vetores Ortogonais, Matriz \nEsparsa, Normas; Sistemas Lineares: M\u00e9todos Diretos: Decomposi\u00e7\u00e3o LU, Decomposi\u00e7\u00e3o de Cholesky; M\u00e9todos \nIterativos: Gradiente Conjugado, M\u00e9todos Pr\u00e9-Condicionados",
+      "Operadores Lineares: Decomposi\u00e7\u00e3o de Valor \nSingular (SVD), Proje\u00e7\u00e3o Ortogonal, Decomposi\u00e7\u00e3o QR, Ortogonaliza\u00e7\u00e3o de Gram-Schmidt, M\u00e9todo de \nHouseholder, Autovalores e Autovetores, M\u00e9todo dos Quadrados M\u00ednimos"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Poole, D. \u201c\u00c1lgebra Linear\u201d, Thomson Learning, 2004;",
+      "Strang, G. \u201c\u00c1lgebra Linear e suas aplica\u00e7\u00f5es\u201d. 4\u00aa edi\u00e7\u00e3o, Cengage Learning, 2010;",
+      "Golub, G.; Van Loan, C.F. \u201cMatrix Computations\u201d, 4\u00aa edi\u00e7\u00e3o, Johns Hopkins University Press, 2012."
+    ],
+    "Bibliografia_Complementar": [
+      "Demmel, J. \u201cApplied Numerical Linear Algebra\u201d, SIAM, 1997;",
+      "Lay, D.C.; Lay, S.R.; McDonald, J.J.; Iorio, V.M. \u201c\u00c1lgebra Linear e suas Aplica\u00e7\u00f5es\u201d, LTC, 2018."
+    ]
+  },
+  {
+    "Nome": "Estrutura de Dados",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Conceitos b\u00e1sicos: valores, tipos abstratos, independ\u00eancia de representa\u00e7\u00e3o",
+      "Estruturas lineares",
+      "\u00c1rvores: \nbin\u00e1rias, equilibradas, de pesquisa, heap",
+      "Grafos",
+      "Exemplos e Aplica\u00e7\u00f5es pr\u00e1ticas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Tenenbaum, A.M.; Langsam, Y.; Augenstein, M.J. \u201cEstrutura de Dados Usando C\u201d. Pearson \nUniversidades, 1995.",
+      "Szwarcfiter, J.L.; Markenzon, L. \u201cEstruturas de Dados e seus Algoritmos\u201d, 3\u00aa edi\u00e7\u00e3o, LTC, 2010."
+    ],
+    "Bibliografia_Complementar": [
+      "Edelweiss, N.; Galante, R. \u201cEstruturas de dados\u201d. Bookman, 2008;",
+      "Oliveira, U. \u201cProgramando em C - Volume I: Fundamentos\u201d. Ci\u00eancia Moderna, 2008;",
+      "Mizrahi, V.V. \u201cTreinamento em Linguagem C\u201d. 2\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2008;",
+      "Schildt, H. \u201cC: Completo e Total\u201d. 3\u00aa Edi\u00e7\u00e3o, Pearson Universidades, 1997."
+    ]
+  },
+  {
+    "Nome": "Programa\u00e7\u00e3o Orientada a Objetos",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Conceitos e terminologias de orienta\u00e7\u00e3o a objetos: objetos, classes, m\u00e9todos e mensagens, heran\u00e7a simples \ne m\u00faltipla, polimorfismo e sistemas de tipos",
+      "Classifica\u00e7\u00e3o de linguagens baseadas em objetos",
+      "Projeto orientado a \nobjetos",
+      "Introdu\u00e7\u00e3o a uma linguagem de programa\u00e7\u00e3o orientada a objetos",
+      "Aplica\u00e7\u00f5es pr\u00e1ticas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Santos, R. \u201cIntrodu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o Orientada a Objetos Usando Java\u201d. 2\u00aa edi\u00e7\u00e3o, Elsevier, 2013;",
+      "Sierra, K.; Bates, B. \u201cUse a cabe\u00e7a! Java\u201d. 2\u00aa edi\u00e7\u00e3o, Alta Books, 2007;",
+      "Deitel, P.; Deitel, H. \u201cJava: Como programar\u201d. Pearson Universidades, 2016."
+    ],
+    "Bibliografia_Complementar": [
+      "Horstmann, C.S.; Cornell, G. \u201cCore Java 2, Volume 1: Fundamentos\u201d. 7a edi\u00e7\u00e3o, Alta Books, 2005."
+    ]
+  },
+  {
+    "Nome": "F\u00edsica Aplicada \u00e0 Computa\u00e7\u00e3o",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "F\u00edsica",
+    "Ementa": [
+      "Vetores, cinem\u00e1tica e din\u00e2mica da part\u00edcula",
+      "Leis de Newton para o movimento",
+      "Trabalho e energia",
+      "Conserva\u00e7\u00e3o da energia",
+      "Conserva\u00e7\u00e3o do momento linear",
+      "Cinem\u00e1tica e din\u00e2mica da rota\u00e7\u00e3o",
+      "Conserva\u00e7\u00e3o do \nmomento angular",
+      "Oscila\u00e7\u00f5es: movimento harm\u00f4nico simples, movimento harm\u00f4nico amortecido, oscila\u00e7\u00f5es \nfor\u00e7adas e resson\u00e2ncia",
+      "Ondas: pulsos de ondas, ondas harm\u00f4nicas, reflex\u00e3o e transmiss\u00e3o, interfer\u00eancias de ondas, \nondas estacion\u00e1rias"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Resnick, R.; Halliday, D., Walker, J. \u201cFundamentos de F\u00edsica - Volume 1\u201d. 10\u00aa edi\u00e7\u00e3o, LTC, 2016;",
+      "Resnick, R.; Halliday, D., Walker, J. \u201cFundamentos de F\u00edsica - Volume 2\u201d, 10\u00aa edi\u00e7\u00e3o, LTC, 2016."
+    ],
+    "Bibliografia_Complementar": [
+      "Knight, R.D. \u201cF\u00edsica: Uma Abordagem Estrat\u00e9gica: Volume 1\u201d. 2\u00aa edi\u00e7\u00e3o, Bookman, 2009."
+    ]
+  },
+  {
+    "Nome": "M\u00e9todos Num\u00e9ricos I",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Erros",
+      "Ra\u00edzes de equa\u00e7\u00f5es e sistemas n\u00e3o-lineares",
+      "Interpola\u00e7\u00e3o",
+      "Integra\u00e7\u00e3o",
+      "Ajuste de curvas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Ruggiero, M.A.G.; Lopes, V.L.R. \u201cC\u00e1lculo Num\u00e9rico: Aspectos Te\u00f3ricos e Computacionais\u201d. 2\u00aa edi\u00e7\u00e3o, \nPearson Universidades, 2000;",
+      "Franco, N.M.B. \u201cC\u00e1lculo Num\u00e9rico\u201d. Pearson Universidades, 2006;",
+      "Chapra, S.C. \u201cM\u00e9todos num\u00e9ricos aplicados com MATLAB para engenheiros e cientistas\u201d. 3\u00aa edi\u00e7\u00e3o, \nAMGH, 2013."
+    ],
+    "Bibliografia_Complementar": [
+      "Gilat, A. \u201cM\u00e9todos Num\u00e9ricos Para Engenheiros e Cientistas. Uma Introdu\u00e7\u00e3o com Aplica\u00e7\u00f5es Usando o \nMATLAB\u201d. Bookman, 2008;",
+      "Cunha, M.C. \u201cM\u00e9todos Num\u00e9ricos\u201d. 2\u00aa edi\u00e7\u00e3o, Editora da Unicamp, 2000;",
+      "Ruggiero, M.A.G; Lopes, V.L.R. \u201cC\u00e1lculo Num\u00e9rico: Aspectos Te\u00f3ricos e Computacionais\u201d. 2\u00aa edi\u00e7\u00e3o, \nPearson Universidades, 2000."
+    ]
+  },
+  {
+    "Nome": "Pesquisa Operacional",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o \u00e0 Pesquisa Operacional",
+      "Programa\u00e7\u00e3o Linear (PL): defini\u00e7\u00e3o, exemplos de modelagem, m\u00e9todo \ngr\u00e1fico, algoritmo Simplex e dualidade",
+      "Programa\u00e7\u00e3o Linear Inteira (PLI): defini\u00e7\u00e3o, exemplos de modelagem, \nalgoritmo Branch-and-Bound; Aplica\u00e7\u00f5es: Problemas de Atribui\u00e7\u00e3o e de Transporte, Problemas de Localiza\u00e7\u00e3o, \nProblemas de Fluxos em redes, Problemas de Roteamento",
+      "Aulas pr\u00e1ticas com o uso de resolvedores de PL e PLI \natrav\u00e9s de uma ou mais linguagens de programa\u00e7\u00e3o modernas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Arenales, M.; Armentano, V.; Morabito, R.; Yanasse, H.H. \u201cPesquisa operacional para cursos de \nengenharia\u201d. 2\u00aa edi\u00e7\u00e3o, Elsevier Academic, 2015;",
+      "Hillier, F.S.; Lieberman, G.J. \u201cIntrodu\u00e7\u00e3o \u00e0 Pesquisa Operacional\u201d. 9\u00aa Edi\u00e7\u00e3o, Editora McGraw-Hill, \n2012;",
+      "Taha, H.A. \u201cPesquisa Operacional\u201d. 8\u00aa Edi\u00e7\u00e3o, Pearson Universidades, 2007."
+    ],
+    "Bibliografia_Complementar": [
+      "Bertsimas, D.; Tsitsiklis, J.N.; Tsitsiklis J. \u201cIntroduction to Linear Optimization\u201d, Athena Scientific, 1997;",
+      "Moreira, D.A. \u201cPesquisa Operacional: curso Introdutorio\u201d, 2\u00aa edi\u00e7\u00e3o, Cengage Learning, 2010;",
+      "Bazaraa, M.S.; Jarvis, J.J.; Sherali, H.D. \u201cLinear Programming and Network Flows\u201d, 4\u00aa edi\u00e7\u00e3o, Wiley, \n2009."
+    ]
+  },
+  {
+    "Nome": "Banco de Dados I",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o aos sistemas de ger\u00eancia de bancos de dados",
+      "Projeto de banco de dados: conceitual, l\u00f3gico e \nf\u00edsico",
+      "Modelo conceitual de entidades e relacionamentos",
+      "Modelo de dados relacional",
+      "Depend\u00eancias funcionais e \nnormaliza\u00e7\u00e3o",
+      "Linguagens de defini\u00e7\u00e3o e de manipula\u00e7\u00e3o de dados",
+      "\u00c1lgebra relacional e SQL",
+      "Restri\u00e7\u00f5es de \nintegridade e vis\u00f5es",
+      "Organiza\u00e7\u00e3o f\u00edsica de bancos de dados: t\u00e9cnicas de armazenamento e indexa\u00e7\u00e3o"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Silberschatz, A.; Korth, H.; Sudarshan, S. \u201cSistema de Banco de Dados\u201d. 6\u00aa edi\u00e7\u00e3o, Elsevier, 2012;",
+      "Elmasri, R.; Navathe, S.B. \u201cSistemas de Banco de Dados\u201d. 6\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2010."
+    ],
+    "Bibliografia_Complementar": [
+      "Date, C.J. \u201c                                       \u201d. 8\u00aa edi\u00e7\u00e3o, Elsevier, 2004;",
+      "Heuser, C.A. \u201cProjeto de Banco de Dados\u201d. 6\u00aa edi\u00e7\u00e3o, Bookman, 2008;",
+      "Garcia-Molina, H.; Ullman, J.D.; Widom, J. \u201cDatabase Systems: the complete book\u201d. 2\u00aa edi\u00e7\u00e3o, Pearson, \n2008;",
+      "Ramakrishnan, R.; Gehrke, J. \u201cSistemas de Gerenciamentos de Bancos de Dados\u201d. 3\u00aa edi\u00e7\u00e3o, 2008."
+    ]
+  },
+  {
+    "Nome": "Introdu\u00e7\u00e3o \u00e0 Intelig\u00eancia Artificial",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o e hist\u00f3rico da IA",
+      "O que \u00e9 e o que n\u00e3o \u00e9 IA",
+      "Resolu\u00e7\u00e3o de problemas usando busca",
+      "Algoritmo \nA*",
+      "Busca local e heur\u00edsticas",
+      "Busca com advers\u00e1rios (jogos)",
+      "Introdu\u00e7\u00e3o \u00e0 probabilidade",
+      "Redes Bayesianas",
+      "Introdu\u00e7\u00e3o ao Aprendizado de m\u00e1quina",
+      "Problemas de decis\u00e3o de Markov e Aprendizado por Refor\u00e7o",
+      "Aplica\u00e7\u00f5es"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Russell, S.; Norvig, P. \u201cIntelig\u00eancia Artificial\u201d. 3\u00aa edi\u00e7\u00e3o, Elsevier, 2013;",
+      "Darwiche, A. \u201cModeling and Reasoning with Bayesian Networks\u201d. Cambridge University Press, 2014;",
+      "Burkov, A. \u201cThe Hundred-Page Machine Learning Book\u201d. Andriy Burkov, 2019."
+    ],
+    "Bibliografia_Complementar": [
+      "Murphy, K.P. \u201cMachine Learning: A Probabilistic Perspective\u201d. MIT Press, 2012;",
+      "Mohri, M.; Rostamizadeh, A.; Talwalkar, A. \u201cFoundations of Machine Learning\u201d. 2\u00aa edi\u00e7\u00e3o, MIT Press, \n2018;",
+      "Koller, D.; Friedman, N. \u201cProbabilistic Graphical Models: Principles and Techniques\u201d. MIT Press, 2009;",
+      "Sutton, R.S.; Barto, A.C. \u201cReinforcement Learning: An Introduction\u201d. 2\u00aa edi\u00e7\u00e3o, Bradford Books, 2018."
+    ]
+  },
+  {
+    "Nome": "Teoria das Probabilidades",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Defini\u00e7\u00f5es b\u00e1sicas: Fundamentos de Probabilidade, Probabilidade Condicional; Teoremas de \nProbabilidade; Independ\u00eancia; Vari\u00e1veis Aleat\u00f3rias: Tipos de vari\u00e1veis Aleat\u00f3rias, Fun\u00e7\u00f5es de Vari\u00e1veis Aleat\u00f3rias; \nEsperan\u00e7a Matem\u00e1tica; Distribui\u00e7\u00f5es de Probabilidade; Vetores Aleat\u00f3rios; Distribui\u00e7\u00e3o conjunta",
+      "Distribui\u00e7\u00f5es \nmarginais",
+      "Distribui\u00e7\u00f5es condicionadas",
+      "Esperan\u00e7a e vari\u00e2ncia condicionadas",
+      "Covari\u00e2ncia",
+      "Transforma\u00e7\u00e3o de \nvari\u00e1veis",
+      "Distribui\u00e7\u00e3o da soma, produto e quociente de vari\u00e1veis aleat\u00f3rias"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Meyer, P.L. \u201cProbabilidade - Aplica\u00e7\u00f5es \u00e0 Estat\u00edstica\u201d. 2\u00aa edi\u00e7\u00e3o, LTC, 1987;",
+      "Ross, S. \u201cProbabilidade: Um Curso Moderno com Aplica\u00e7\u00f5es\u201d. 8\u00aa Edi\u00e7\u00e3o, Bookman, 2010;",
+      "Durrett, R. \u201cElementary Probability for Applications\u201d. Cambridge University Press, 2009."
+    ],
+    "Bibliografia_Complementar": [
+      "Blitzstein, J.K.; Hwang, J. \u201cIntroduction to Probability\u201d, CRC Press, 2014;",
+      "Gnedenko, B.V. \u201cTeoria da Probabilidade\u201d. Ci ncia Moderna, 2008;"
+    ]
+  },
+  {
+    "Nome": "Pesquisa Aplicada \u00e0 Ci\u00eancia de Dados",
+    "Carga": "03 cr\u00e9ditos (te\u00f3ricas: 45 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Ci\u00eancia e Tecnologia: Aspectos conceituais",
+      "A pesquisa e a constru\u00e7\u00e3o do conhecimento",
+      "A pesquisa e sua \ninterface nas \u00e1reas de Ci\u00eancia de Dados e Intelig\u00eancia Artificial",
+      "M\u00e9todos e t\u00e9cnicas de pesquisa acad\u00eamica",
+      "Tipos e \nt\u00e9cnicas de pesquisa",
+      "Normatiza\u00e7\u00e3o da produ\u00e7\u00e3o acad\u00eamica: normas da ABNT, elabora\u00e7\u00e3o de projetos e relat\u00f3rios"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Wazlawick, R. \u201cMetodologia de Pesquisa para Ci\u00eancia da Computa\u00e7\u00e3o\u201d. 2\u00aa edi\u00e7\u00e3o, Elsevier, 2014;",
+      "Lakatos, E.; Marconi, M.A. \u201cFundamentos da metodologia cient\u00edfica\u201d. 8\u00aa edi\u00e7\u00e3o, Atlas, 2017;"
+    ],
+    "Bibliografia_Complementar": [
+      "Medeiros, J.B. \u201cReda\u00e7\u00e3o cient\u00edfica: a pr\u00e1tica de fichamentos, resumos, resenhas\u201d. 12\u00aa edi\u00e7\u00e3o, Atlas, 2014;",
+      "Marconi, M.A.; Lakatos, E.M. \u201cT\u00e9cnicas de Pesquisa\u201d. 8\u00aa edi\u00e7\u00e3o, Atlas, 2017."
+    ]
+  },
+  {
+    "Nome": "Equa\u00e7\u00f5es Diferenciais Ordin\u00e1rias",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "M\u00e9todo das aproxima\u00e7\u00f5es sucessivas e Teorema de Picard",
+      "M\u00e9todo num\u00e9ricos de passos simples e passos \nm\u00faltiplos expl\u00edcitos e impl\u00edcitos",
+      "M\u00e9todos preditores-corretores",
+      "Converg\u00eancia, Consist\u00eancia e Estabilidade de \nm\u00e9todos num\u00e9ricos",
+      "Modelos de crescimento e decrescimento",
+      "Problemas de contorno"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Boyce, W.E.; Diprima, R.C. \u201cEqua\u00e7\u00f5es Diferenciais Elementares e Problemas de Valores de Contorno\u201d. \n10\u00aa edi\u00e7\u00e3o, LTC, 2015;",
+      "Figueiredo, D.G.; Neves, A.F. \u201cEqua\u00e7\u00f5es diferenciais aplicadas\u201d. 3\u00aa edi\u00e7\u00e3o, IMPA, 2008."
+    ],
+    "Bibliografia_Complementar": [
+      "Brannan, J.R.; Boyce, W.E. \u201cDifferential Equations. An introduction to modern methods and applications\u201d. \n3\u00aa edi\u00e7\u00e3o, Wiley, 2015;",
+      "Zill, D.G.; Cullen, M.R. \u201cEqua\u00e7\u00f5es Diferenciais\u201d. 3\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2000;",
+      "Robinson, J. \u201cAn introduction to ordinary differential equations\u201d. Cambridge University Press, 2004;",
+      "Coddington, E.A. \u201cAn Introduction to Ordinary Differential Equations\u201d. Dover Publications, 1989;",
+      "Hirsch, M.; Smale, S., \u201cDifferential Equations, Dynamical Systems and Linear Algebra\u201d, Academic Press, \n1974."
+    ]
+  },
+  {
+    "Nome": "Otimiza\u00e7\u00e3o N\u00e3o-Linear",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Problemas de Otimiza\u00e7\u00e3o sem Restri\u00e7\u00f5es: Condi\u00e7\u00f5es de Otimalidade, M\u00e9todos Gradiente, M\u00e9todo de \nGradientes conjugados, M\u00e9todos Quase-Newton, M\u00e9todos Quase-Newton com mem\u00f3ria limitada, Implementa\u00e7\u00e3o \ncomputacional e aplica\u00e7\u00f5es",
+      "Otimiza\u00e7\u00e3o com restri\u00e7\u00f5es lineares de igualdade"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Bazaraa, M.S.; Sherali, H.D.; Shetty, C. M. \u201cNonlinear Programming: theory and algorithms\u201d. 3\u00aa ed. \nHoboken: John Wiley & Sons, 2006;",
+      "Bertsekas, D. P. \u201cNonlinear programming\u201d. 3\u00aa edi\u00e7\u00e3o, Athena Scientific, 2016;",
+      "Luenberger, D.G.; Ye, Y. \u201cLinear and nonlinear programming\u201d. 4\u00aa edi\u00e7\u00e3o, Nova York: Springer, 2016.",
+      "Z\u00f6rnig, P. \u201cIntrodu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o N\u00e3o Linear\u201d. Editora UnB, 2011;",
+      "Bonnans, J.F.; Gilbert, J.C.; Lemarechal, C.; Sagastizabal, C.A. \u201cNumerical optimization: Theoretical and \nPractical Aspects\u201d, 2\u00aa edi\u00e7\u00e3o, Springer, 2006."
+    ],
+    "Bibliografia_Complementar": [
+      "Avriel, M. \u201cNonlinear programming: analysis and methods\u201d. Dover Publications, 2003;",
+      "Fletcher, R. \u201cPractical methods of optimization\u201d. 2\u00aa edi\u00e7\u00e3o, Wiley, 2009."
+    ]
+  },
+  {
+    "Nome": "An\u00e1lise e Projeto de Algoritmos",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o \u00e0 complexidade assint\u00f3tica: no\u00e7\u00f5es b\u00e1sicas de complexidade; nota\u00e7\u00f5es assint\u00f3ticas O, Theta e \nOmega; An\u00e1lise de melhor caso, pior caso e caso m\u00e9dio; An\u00e1lise de recorr\u00eancias",
+      "Algoritmos de ordena\u00e7\u00e3o",
+      "Divis\u00e3o \ne Conquista",
+      "Programa\u00e7\u00e3o Din\u00e2mica",
+      "Algoritmos Gulosos",
+      "Classes de complexidade: Problemas de decis\u00e3o; \nProblemas de otimiza\u00e7\u00e3o; Classes P e NP; Problemas NP-Completos e NP-Dif\u00edceis",
+      "Algoritmos eficientes para \nproblemas NP-Completos e NP-Dif\u00edceis: heur\u00edsticas e meta-heur\u00edsticas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Cormen, T. \u201cAlgoritmos: teoria e pr\u00e1tica\u201d, 3\u00aa edi\u00e7\u00e3o, Elsevier, 2012;",
+      "Dasgupta, S.; Papadimitriou, C.; Vazirani, U. \u201cAlgoritmos\u201d. 1\u00aa edi\u00e7\u00e3o, AMGH, 2009;",
+      "Szwarcfiter, J.L.; Markenzon, L. \u201cEstrutura de Dados e Seus Algoritmos\u201d. 3\u00aa edi\u00e7\u00e3o, LTC, 2010.",
+      "Kleinberg, J; Tardos, E. \u201cAlgorithm Design\u201d. Pearson, 2005;"
+    ],
+    "Bibliografia_Complementar": [
+      "Gendreau, M.; Potvin, J-Y. \u201cHandbook of metaheuristics\u201d. 3\u00aa edi\u00e7\u00e3o, Springer, 2018;",
+      "Souza, \nM.J.F. \n\u201cIntelig\u00eancia \nComputacional \npara \nOtimiza\u00e7\u00e3o\u201d. \nUFOP, \nDispon\u00edvel \nem: \nhttp://www.decom.ufop.br/prof/marcone",
+      "Knuth, D.E. \u201cThe Art of Computer Programming\u201d. Addison-Wesley Professional, 2011;",
+      "Bondy, J.A.; Murty, U.S.R. \u201cGraph Theory With Applications\u201d. Elsevier, 1976."
+    ]
+  },
+  {
+    "Nome": "Infer\u00eancia Estat\u00edstica",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Teoremas de Converg\u00eancia Estoc\u00e1stica; Distribui\u00e7\u00e3o Amostral",
+      "Estimadores Pontuais e suas Propriedades",
+      "M\u00e9todos de Estima\u00e7\u00e3o Pontual",
+      "Estima\u00e7\u00e3o Intervalar",
+      "Testes de Hip\u00f3teses",
+      "Introdu\u00e7\u00e3o \u00e0 Infer\u00eancia Bayesiana: \nDistribui\u00e7\u00f5es \u00e0 Priori e \u00e0 Posteriori; Fam\u00edlias Conjugadas; Fun\u00e7\u00e3o Perda e Estimador de Bayes",
+      "Introdu\u00e7\u00e3o \u00e0 \nInfer\u00eancia N\u00e3o-Param\u00e9trica: Testes de Ader\u00eancia; Testes para Compara\u00e7\u00e3o de Popula\u00e7\u00f5es; Coeficientes e Testes de \nConcord\u00e2ncia e Correla\u00e7\u00e3o"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Bolfarine, H.; Sandoval, M.C.  \u201cIntrodu\u00e7\u00e3o \u00e0 Infer\u00eancia Estat\u00edstica\u201d. 2\u00aa edi\u00e7\u00e3o, SBM, 2010;",
+      "Casella, G.; Berger, R.L. \u201cInfer\u00eancia estat\u00edstica\u201d. Cengage Learning, 2010;",
+      "Meyer, P.L. \u201cProbabilidade - Aplica\u00e7\u00f5es \u00e0 Estat\u00edstica\u201d. 2\u00aa edi\u00e7\u00e3o, LTC, 1987;",
+      "Morettin, P.A.; Bussab, W.O. \u201cEstat\u00edstica B\u00e1sica\u201d. 9\u00aa edi\u00e7\u00e3o, Saraiva, 2017."
+    ],
+    "Bibliografia_Complementar": [
+      "DeGroot, M.H.; Schervish, M.J. \u201cProbability and Statistics\u201d. 4\u00aa edi\u00e7\u00e3o, Pearson, 2011;",
+      "Hogg, R.V.; McKean, J.; Craig, A.T. \u201cIntroduction to Mathematical Statistics\u201d. 8\u00aa Edi\u00e7\u00e3o, Pearson, 2018;"
+    ]
+  },
+  {
+    "Nome": "M\u00e9todos Matem\u00e1ticos I",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Sequ\u00eancias e s\u00e9ries num\u00e9ricas",
+      "S\u00e9ries de pot\u00eancia",
+      "Espa\u00e7os com produto interno",
+      "Funcionais Lineares",
+      "Espa\u00e7o dual",
+      "Operadores positivos, unit\u00e1rios e normais",
+      "Formas bileneares"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Kreider, D.L.; Kuller, R.G.; Ostberg, D.R.; Perkins, F.W. \u201cIntrodu\u00e7\u00e3o \u00e0 An\u00e1lise Linear (vols. 1, 2 e 3)\u201d. Ao \nLivro T\u00e9cnico, 1986;",
+      "Oliveira, C.R. \u201cIntrodu\u00e7\u00e3o \u00e0 An\u00e1lise Funcional\u201d. IMPA, 2015."
+    ],
+    "Bibliografia_Complementar": [
+      "Kreyszig, E. \u201cAdvanced Engineering Mathematics\u201d. 10\u00aa edi\u00e7\u00e3o, Wiley, 2015."
+    ]
+  },
+  {
+    "Nome": "Engenharia de Software",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Objetivos",
+      "Princ\u00edpios da Engenharia de Software",
+      "Processos de Desenvolvimento, Especifica\u00e7\u00e3o de \nRequisitos, Qualidade de Software",
+      "Verifica\u00e7\u00e3o de Software",
+      "Teste de Software",
+      "Manuten\u00e7\u00e3o de Software",
+      "Configura\u00e7\u00e3o de Software",
+      "Ferramentas e Ambientes para Engenharia de Software"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Sommerville, I. \u201cEngenharia de Software\u201d. 9\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2011;",
+      "Pfleeger, S.L. \u201cEngenharia de software: teoria e pr\u00e1tica\u201d. 2\u00aa edi\u00e7\u00e3o, Pearson, 2004;",
+      "Wazlawick, R. \u201cEngenharia de software: Conceitos e Pr\u00e1ticas\u201d. Elsevier, 2013;",
+      "Pressman, R.S. \u201cEngenharia de Software: Uma Abordagem Profissional\u201d. 8\u00aa edi\u00e7\u00e3o, AMGH, 2016."
+    ],
+    "Bibliografia_Complementar": [
+      "Peters, J.F.; Pedrycz, W. \u201cEngenharia de Software: Teoria e Pr\u00e1tica\u201d. 3\u00aa edi\u00e7\u00e3o, Campus, 2001;"
+    ]
+  },
+  {
+    "Nome": "Computadores e Sociedade",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Educa\u00e7\u00e3o Sanit\u00e1ria e Ambiental",
+      "Avalia\u00e7\u00e3o de Impacto Ambiental",
+      "Pol\u00edticas de A\u00e7\u00f5es Afirmativas e \nDiscrimina\u00e7\u00e3o Positiva \u2013 a quest\u00e3o das cotas",
+      "Aplica\u00e7\u00f5es de computadores e sua influ\u00eancia na sociedade",
+      "Vantagens \nda automa\u00e7\u00e3o",
+      "Aspectos legais, sociais, econ\u00f4micos e \u00e9ticos da utiliza\u00e7\u00e3o do computador",
+      "\u00c9tica profissional",
+      "Perspectivas futuras",
+      "Atua\u00e7\u00e3o do profissional no mercado de trabalho",
+      "Educa\u00e7\u00e3o para as rela\u00e7\u00f5es \u00e9tnico-raciais",
+      "Conceitos de ra\u00e7a e etnia, mesti\u00e7agem, racismo e racialismo, preconceito e discrimina\u00e7\u00e3o",
+      "Configura\u00e7\u00f5es dos \nconceitos de ra\u00e7a, etnia e cor no Brasil: entre as abordagens acad\u00eamicas e sociais",
+      "Cultura afro-brasileira e ind\u00edgena"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Bandeira, M.L. \u201cAntropologia. Diversidade e Educa\u00e7\u00e3o\u201d. Fasc\u00edculos 3\u00ba e 4\u00ba, 2\u00ba edi\u00e7\u00e3o, rev. Cuiab\u00e1, \nEDUFMT, 2000;",
+      "Ermann, M.; Williams, M.; Shauf, M. \u201cComputers, Ethics, and Society\u201d. 3\u00aa edi\u00e7\u00e3o, Oxford Univ Press, \n2002."
+    ],
+    "Bibliografia_Complementar": [
+      "Masiero, P.C. \u201c\u00c9tica em Computa\u00e7\u00e3o\u201d. EDUSP 2008;",
+      "Youssef, A.N.; Fernandez, V.P. \u201cInform\u00e1tica e Sociedade\u201d. 2\u00aa edi\u00e7\u00e3o, Atica, 1988;",
+      "Dupas, G. \u201c\u00c9tica e poder na sociedade da informa\u00e7\u00e3o\u201d. 3\u00aa edi\u00e7\u00e3o, Editora Unesp, 2011."
+    ]
+  },
+  {
+    "Nome": "Est\u00e1gio Supervisionado",
+    "Carga": "20 cr\u00e9ditos (te\u00f3ricas: 300 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Per\u00edodo de exerc\u00edcio pr\u00e9-profissional em que o estudante de gradua\u00e7\u00e3o entra em contato direto com o \nambiente de trabalho, fundamentando os conhecimentos te\u00f3ricos adquiridos segundo um programa de tarefas \npreviamente estabelecido, sob a orienta\u00e7\u00e3o de um professor e a supervis\u00e3o de um t\u00e9cnico da empresa onde o est\u00e1gio \nest\u00e1 sendo realizado"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Livre"
+    ],
+    "Bibliografia_Complementar": [
+      "Livre"
+    ]
+  },
+  {
+    "Nome": "Teoria dos Grafos Aplicada",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Conceitos de Grafos: V\u00e9rtices, Arestas, matrizes de adjac\u00eancias, graus, componentes conectados",
+      "Busca \nem Grafos",
+      "Medidas de dist\u00e2ncia e de centralidade",
+      "Caminhos",
+      "Difus\u00e3o de informa\u00e7\u00f5es",
+      "Detec\u00e7\u00e3o de Comunidades",
+      "Interpreta\u00e7\u00e3o de topologias de rede",
+      "Exemplos de mundo real: Forma\u00e7\u00e3o de opini\u00e3o e cont\u00e1gio, redes sociais",
+      "Software para gest\u00e3o de redes",
+      "Otimiza\u00e7\u00e3o em Grafos"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Wasserman, S.; Faust, K. \u201cSocial Network Analysis: Methods and Applications\u201d. Cambridge University \nPress, 1994;",
+      "McCulloh, I; Armstrong, H.; Johnson, A. \u201cSocial Network Analysis with Applications\u201d, Wiley, 2013;",
+      "Barab\u00e1si, A-L.; P sfai, M. \u201cNetwork Science\u201d, Cambridge University Press, Disnpon\u00edvel em: \nhttp://networksciencebook.com/;",
+      "Yang, S.; Keller, F.B.; Zheng, L. \u201cSocial Network Analysis: Methods and Examples\u201d. SAGE Publications, \n2016."
+    ],
+    "Bibliografia_Complementar": [
+      "Barabasi, A-L. \u201cLinked. A Nova Ci\u00eancia dos Networks\u201d. Leopardo, 2009;",
+      "Gabardo, A. \u201c                        \u201d. Novatec, 2015;",
+      "Kadushin, C. \u201cUnderstanding Social Networks: Theories, Concepts, and Findings\u201d. Oxford University \nPress, 2011;",
+      "Newman, M. \u201cNetworks: An Introduction\u201d. 2\u00aa edi\u00e7\u00e3o, Oxford University Press, 2018;",
+      "Monge, P.R.; Contractor, N.S. \u201cTheories of communication networks\u201d. Oxford University Press, 2003."
+    ]
+  },
+  {
+    "Nome": "Intelig\u00eancia Computacional",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Computa\u00e7\u00e3o Evolucion\u00e1ria: Componentes de um Algoritmo Gen\u00e9tico (AG); Desenvolvimento de Ags - \nExemplo da Fun\u00e7\u00e3o Bin\u00e1ria F6; Reprodu\u00e7\u00e3o e Sele\u00e7\u00e3o; Outras T\u00e9cnicas e Operadores; Problemas de Otimiza\u00e7\u00e3o \nCombinatorial - TSP, colorir grafo, produ\u00e7\u00e3o industrial; Evolu\u00e7\u00e3o de Regras de Classifica\u00e7\u00e3o por Algoritmos \nGen\u00e9ticos (Minera\u00e7\u00e3o de Dados); Introdu\u00e7\u00e3o ao Evolver e ao RuleEvolver",
+      "L\u00f3gica Fuzzy: Introdu\u00e7\u00e3o; Conjuntos \nFuzzy; Rela\u00e7\u00f5es e Composi\u00e7\u00f5es Fuzzy; L\u00f3gica Fuzzy; Sistemas Fuzzy; Controle Baseado em Regras Lingu\u00edsticas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Haykin, S. \u201cNeural Networks: A Comprehensive Foundation\u201d. 2\u00aa edi\u00e7\u00e3o, Prentice Hall, 1998;",
+      "De Jong, K.A. \u201cEvolutionary Computation: A Unified Approach\u201d. The MIT Press, 2002;",
+      "Rozz, T.J. \u201cFuzzy Logic with Engineering Applications\u201d, 4\u00aa edi\u00e7\u00e3o, Wiley, 2016;",
+      "Goonatilake, S.; Khebbal, S. \u201cIntelligent Hybrid Systems\u201d. Wiley, 1995."
+    ],
+    "Bibliografia_Complementar": [
+      "Gendreau, M.; Potvin, J-Y. \u201cHandbook of metaheuristics\u201d. 3\u00aa edi\u00e7\u00e3o, Springer, 2018;",
+      "Souza, \nM.J.F. \n\u201cIntelig\u00eancia \nComputacional \npara \nOtimiza\u00e7\u00e3o\u201d. \nUFOP, \nDispon\u00edvel \nem: \nhttp://www.decom.ufop.br/prof/marcone"
+    ]
+  },
+  {
+    "Nome": "An\u00e1lise Multivariada",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "A distribui\u00e7\u00e3o normal multivariada; Estima\u00e7\u00e3o da m\u00e9dia e da matriz de covari\u00e2ncias",
+      "Classifica\u00e7\u00e3o de \nobserva\u00e7\u00f5es: O problema de classifica\u00e7\u00f5es; Classifica\u00e7\u00e3o em uma ou mais popula\u00e7\u00f5es normais multivariadas; Regra \nde decis\u00e3o Bayesiana; An\u00e1lise discriminante linear; Classifica\u00e7\u00e3o de vizinhos mais pr\u00f3ximos",
+      "An\u00e1lise de \ncomponentes principais: Defini\u00e7\u00e3o; Estima\u00e7\u00e3o via m\u00e1xima verossimilhan\u00e7a",
+      "An\u00e1lise de correla\u00e7\u00e3o can\u00f4nica: \nCorrela\u00e7\u00f5es can\u00f4nicas; Estima\u00e7\u00e3o de correla\u00e7\u00f5es can\u00f4nicas",
+      "An\u00e1lise Fatorial: Defini\u00e7\u00e3o do modelo; Estima\u00e7\u00e3o para \nos fatores ortogonais aleat\u00f3rios; Estima\u00e7\u00e3o de fatores fixos; Interpreta\u00e7\u00e3o dos fatores e transforma\u00e7\u00f5es",
+      "An\u00e1lise de \nagrupamentos (clusters): Algoritmo de k-m\u00e9dias; Mistura de vari\u00e1veis gaussianas; Algoritmo EM para o ajuste de \nmistura de vari\u00e1veis gaussianas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Mingoti, S.A. \u201cAn\u00e1lise de Dados Atrav\u00e9s de M\u00e9todos de Estat\u00edstica Multivariada: Uma Abordagem \nAplicada\u201d. Editora UFMG, 2007;",
+      "Anderson, T.W.  \u201cAn Introduction to Multivariate Statistical Analysis\u201d. 3\u00aa edi\u00e7\u00e3o, Wiley, 2004;",
+      "James, G.; Witten, D.; Hastie,T.; Tibshirani, R. \u201cAn Introduction to Statistical Learning with Applications \nin R\u201d. Springer, 2013;",
+      "Nasiriany, S.; Thomas, G.; Wang, W.; Yang, A. \u201cA Comprehensive Guide to Machine Learning\u201d. \nDispon\u00edvel em: http://snasiriany.me/cs189/"
+    ],
+    "Bibliografia_Complementar": [
+      "Seber, G.A.F. \u201cMultivariate Observations\u201d. Wiley, 1984;",
+      "Rencher, A.C. , \u201cMethods of multivariate analysis\u201d. 3\u00aa edi\u00e7\u00e3o, Wiley, 2012."
+    ]
+  },
+  {
+    "Nome": "Trabalho de Conclus\u00e3o de Curso",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Elabora\u00e7\u00e3o, sob a orienta\u00e7\u00e3o de um professor do Centro de Inform\u00e1tica, de relat\u00f3rio referente ao Est\u00e1gio \nSupervisionado realizado em empresa ou, da monografia fruto de trabalho t\u00e9cnico-cient\u00edfico desenvolvido sob a \norienta\u00e7\u00e3o de um professor do Centro de Inform\u00e1tica"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Livre"
+    ],
+    "Bibliografia_Complementar": [
+      "Livre"
+    ]
+  },
+  {
+    "Nome": "Big Data",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Estudar tecnologias fundamentais para Big Data",
+      "Estudar os principais conceitos para gerenciamento de \nBig Data",
+      "Explorar m\u00e9todos anal\u00edticos em Big Data",
+      "An\u00e1lise e Solucionar problemas reais em Big Data, envolvendo \ndados estruturados e n\u00e3o estruturados"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Zikopoulos, P.; Eaton, C. \u201cUnderstanding big data: Analytics for enterprise class hadoop and streaming \ndata\u201d. McGraw-Hill Osborne Media, 2011;",
+      "Prajapati, V. \u201cBig Data Analytics with R and Hadoop\u201d. Packt Publishing, 2013;",
+      "White, T. \u201cHadoop: the definitive guide\u201d. 3\u00aa edi\u00e7\u00e3o, O'Reilly Media, 2012;",
+      "Berry, M.W.; Kogan, J. \u201cText mining: applications and theory\u201d. Wiley, 2010."
+    ],
+    "Bibliografia_Complementar": [
+      "Tiwari, S. \u201cProfessional NoSQL\u201d. Wrox, 2011;",
+      "Sharda, R.; Aronson, J.E.; King, D.N. \u201cBusiness intelligence: A managerial approach\u201d.2a edi\u00e7\u00e3o, Pearson \nEducation, 2010;",
+      "Silva, L.A; Peres, S.M.; Boscarioli, C. \u201cIntrodu\u00e7\u00e3o \u00e0 Minera\u00e7\u00e3o de dados com aplica\u00e7\u00f5es em R\u201d. Elsevier, \n2016;",
+      "Goker, A.; Davies, J. \u201cInformation retrieval: searching in the 21st century\u201d. Wiley, 2009."
+    ]
+  },
+  {
+    "Nome": "Empreendedorismo",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Motiva\u00e7\u00e3o",
+      "Empreendedorismo no Brasil",
+      "Pr\u00e1tica Empreendedora",
+      "Ferramentas \u00fateis ao empreendedor \n(marketing e administra\u00e7\u00e3o estrat\u00e9gica)",
+      "Plano de Neg\u00f3cios \u2013 etapas, processos e elabora\u00e7\u00e3o",
+      "Empreendedorismo no \nDireito"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Dolabela, F. \u201cO segredo de Lu\u00edsa\u201d. Sextante, 2008;",
+      "Hashimoto, M. \u201cEsp\u00edrito empreendedor nas organiza\u00e7\u00f5es: aumentando a competitividade atrav\u00e9s do intra-\nempreendedorismo\u201d. 3\u00aa edi\u00e7\u00e3o, Saraiva, 2013;",
+      "Dornelas, J. \u201cEmpreendedorismo, Transformando Ideias em Neg\u00f3cios\u201d. 7\u00aa edi\u00e7\u00e3o, Empreende, 2018."
+    ],
+    "Bibliografia_Complementar": [
+      "Marins, L. \u201cNingu\u00e9m \u00e9 empreendedor sozinho\u201d. Saraiva, 2012;",
+      "Blank, S.; Dorf, B. \u201cStartup: Manual do empreendedor\u201d. Atlas Books, 2014."
+    ]
+  },
+  {
+    "Nome": "Processos Estoc\u00e1sticos",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o aos Processos Estoc\u00e1sticos: Tipos cl\u00e1ssicos de Processos Estoc\u00e1ticos; Processo de Contagem; \nProcesso de Bernoulli; Processo de Poisson; Cadeias de Markov",
+      "Estacionaridade e Ergodicidade",
+      "Processos \ngaussianos",
+      "Introdu\u00e7\u00e3o ao movimento Browniano"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Yates, R.D.; Goodman, D.J. \u201cProbabilidade e Processos Estoc\u00e1sticos\u201d. 3\u00aa edi\u00e7\u00e3o, LTC, 2016;",
+      "Durrett, R. \u201cEssentials of Stochastic Processes\u201d. 3\u00aa edi\u00e7\u00e3o, Springer, 2016;",
+      "Dobrow, R. P. \u201cIntroduction To Stochastic Processes With R\u201d. Wiley, 2016."
+    ],
+    "Bibliografia_Complementar": [
+      "Breiman, L. \u201cProbability and Stochastic Processes with a view toward Applications\u201d. Mifflin, 1969;",
+      "Chung, K.L. \u201cElementary Probability Theory with Stochastic Processes\u201d. 4\u00aa edi\u00e7\u00e3o, Springer, 2006;",
+      "Hoel, P.G.; Port, S.S; Stone, C.J. \u201cIntroduction to Stochastic Processes\u201d. Houghton Mifflin Company, \n1972;",
+      "Ross, S.M. \u201cIntroduction to Probability Models\u201d. 11\u00aa edi\u00e7\u00e3o, Academic Press, 2014;",
+      "Clark, B.; Disney, R.L. \u201cProbabilidade e Processos Estoc\u00e1sticos\u201d. 1979."
+    ]
+  },
+  {
+    "Nome": "Otimiza\u00e7\u00e3o de Grande Porte",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Problemas de programa\u00e7\u00e3o matem\u00e1tica de grande porte com estrutura especial",
+      "Dualiza\u00e7\u00e3o",
+      "Relaxa\u00e7\u00e3o e \nrestri\u00e7\u00e3o",
+      "Resolu\u00e7\u00e3o por partes",
+      "Lineariza\u00e7\u00e3o interna e externa",
+      "Relaxa\u00e7\u00e3o Lagrangeana de problemas \ndecompon\u00edveis",
+      "Princ\u00edpio de decomposi\u00e7\u00e3o de Dantzig-Wolfe",
+      "M\u00e9todo de decomposi\u00e7\u00e3o de Benders",
+      "M\u00e9todos de \npontos interiores",
+      "Aplica\u00e7\u00f5es"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Lasdon, L.S. \"Optimization Theory for Large Systems\", Dover, 2002;",
+      "Bertsekas, D.P. \u201cNonlinear programming\u201d. 3\u00aa edi\u00e7\u00e3o, Athena Scientific, 2016;",
+      "Boyd, S.; Vandenberghe, L. \"Convex Optimization\". Cambridge University Press, 2004."
+    ],
+    "Bibliografia_Complementar": [
+      "Bertsimas, D.; Tsitsiklis, J.N.; Tsitsiklis J. \u201cIntroduction to Linear Optimization\u201d, Athena Scientific, 1997;",
+      "Bazaraa, M.S.; Jarvis, J.J.; Sherali, H.D. \u201cLinear Programming and Network Flows\u201d, 4\u00aa edi\u00e7\u00e3o, Wiley, \n2009."
+    ]
+  },
+  {
+    "Nome": "Redes de Computadores I",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Conceitos b\u00e1sicos de rede",
+      "Arquitetura de redes e modelo de refer\u00eancia RM/OSI-ISO",
+      "Protocolo e camadas \nde rede: f\u00edsica, enlace, rede, transporte, sess\u00e3o, apresenta\u00e7\u00e3o e aplica\u00e7\u00e3o",
+      "Interconex\u00e3o de redes",
+      "Redes locais \n(LAN\u2019s)"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Tanenbaum, A.S. \u201cRedes de Computadores\u201d. 5\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2011;",
+      "Soares, L.F.; Lemos, G; Colcher, S. \u201c                                                         \u201d. \nCampus, 1995."
+    ],
+    "Bibliografia_Complementar": [
+      "Forouzan, B.A. \u201cComunica\u00e7\u00e3o de Dados e Redes de Computadores\u201d. 4\u00aa edi\u00e7\u00e3o, AMGH, 2007;",
+      "Comer, D.E. \u201cRedes de Computadores e Internet\u201d. 6\u00aa edi\u00e7\u00e3o, Bookman, 2016;",
+      "Kurose, J.F.; Ross, K.W. \u201cRedes de Computadores e a Internet: Uma Abordagem Top- Down\u201d. 6\u00aa edi\u00e7\u00e3o, \nPearson, 2013."
+    ]
+  },
+  {
+    "Nome": "Teoria do Controle \u00d3timo",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Espa\u00e7os lineares; Modelos matem\u00e1ticos; Equa\u00e7\u00f5es din\u00e2micas; Normas de sinais e sistemas; Respostas de \nsistemas lineares; Controlabilidade, estabilizabilidade, observabilidade e detectabilidade; Dualidade; Decomposi\u00e7\u00e3o \nde Kalman; Realiza\u00e7\u00f5es: Realiza\u00e7\u00f5es m\u00ednimas e can\u00f4nicas; Estabilidade (entrada-sa\u00edda e no sentido de Lyapunov)"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Rugh, W.J. \u201cLinear System Theory\u201d. 2\u00aa edi\u00e7\u00e3o, Pearson, 1996;",
+      "Chen, C.T. \u201cLinear System Theory and Design\u201d. 4\u00aa edi\u00e7\u00e3o, Oxford University Press, 2012."
+    ],
+    "Bibliografia_Complementar": [
+      "Baumeister, J.; Leit\u00e3o, A.; \u201cIntrodu\u00e7\u00e3o \u00e0 teoria do controle e programa\u00e7\u00e3o din\u00e2mica\u201d. IMPA, 2014;",
+      "Leitmann, G.; \u201cThe Calculus of Variations and Optimal Control: an introduction\u201d. Springer, 1981."
+    ]
+  },
+  {
+    "Nome": "Programa\u00e7\u00e3o Concorrente",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Conceitos b\u00e1sicos de concorr\u00eancia",
+      "Modelo de processos concorrentes e comunicantes",
+      "Paradigmas de \nlinguagens de programa\u00e7\u00e3o concorrentes",
+      "Compartilhamento de recursos",
+      "Comunica\u00e7\u00e3o",
+      "Modelos para especifica\u00e7\u00e3o \nde concorr\u00eancia",
+      "Aplica\u00e7\u00f5es pr\u00e1ticas dos conceitos estudados usando uma linguagem de programa\u00e7\u00e3o com suporte a \nconcorr\u00eancia"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Ben-Ari, M. \u201cPrinciples of Concurrent and Distributed Programming\u201d. 2\u00aa edi\u00e7\u00e3o, Pearson, 2005;",
+      "Lea, D. \u201cConcurrent Programming in Java: Design Principles and Patterns\u201d. 2\u00aa edi\u00e7\u00e3o, Addison-Wesley, \n2000."
+    ],
+    "Bibliografia_Complementar": [
+      "Goetz, B.; Peierls, T.; Bloch, J.; Bowbeer, J.; Holmes, D.; Lea, D. \u201cJava Concurrency in Practice\u201d. \nAddison-Wesley, 2006."
+    ]
+  },
+  {
+    "Nome": "Programa\u00e7\u00e3o Linear Inteira",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Programa\u00e7\u00e3o Linear Inteira: formula\u00e7\u00f5es e complexidade",
+      "Otimalidade: relaxa\u00e7\u00f5es e limitantes",
+      "Relaxa\u00e7\u00e3o \nLagrangeana: m\u00e9todo do subgradiente e heur\u00edsticas lagrangeanas",
+      "Problemas de PLI bem resolvidos e \nUnimodularidade Total",
+      "Algoritmos de Branch-and-Bound para PLI",
+      "Algoritmos de Planos-de-Corte para PLI",
+      "Desigualdades V\u00e1lidas Fortes e t\u00e9cnicas de lifting",
+      "Introdu\u00e7\u00e3o a Combinat\u00f3ria Poli\u00e9drica",
+      "Gera\u00e7\u00e3o de colunas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Nemhauser, G.L.; Wolsey, L.A. \u201cInteger and Combinatorial Optimization\u201d. Wiley, 1999;",
+      "Papadimitriou, C.H.; Steiglitz, K. \u201cCombinatorial Optimization: algorithms and complexity\u201d. Dover, 1998;",
+      "Wolsey, L.A. \u201cInteger Programming\u201d. Wiley, 1998."
+    ],
+    "Bibliografia_Complementar": [
+      "Parker, G.R.; Rardin, R. L. \u201cDiscrete Optimization\u201d. Academic Press, 1988;",
+      "Salkin, H.M.; Mathur, K. \u201cFoundation of Integer Programming\u201d. North-Holland, 1989."
+    ]
+  },
+  {
+    "Nome": "Aprendizagem de M\u00e1quina",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o \u00e0 aprendizagem de m\u00e1quina",
+      "Gradiente descendente estoc\u00e1stico",
+      "Vi\u00e9s, vari\u00e2ncia, overfitting e \nunderfitting",
+      "Regulariza\u00e7\u00e3o",
+      "T\u00e9cnicas de valida\u00e7\u00e3o",
+      "Modelos de regress\u00e3o: regress\u00e3o linear; regress\u00e3o log\u00edstica; \nan\u00e1lise de diagn\u00f3stico; modelos lineares generalizados e an\u00e1lise de res\u00edduos",
+      "Aprendizado baseado em inst\u00e2ncias \n(KNN)",
+      "\u00c1rvores de decis\u00e3o e florestas aleat\u00f3rias",
+      "M\u00e9todos ensemble",
+      "Classificadores probabil\u00edsticos (Naive Bayes)",
+      "M\u00e1quinas de vetor de suporte"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Abu-Moustafa, Y.S.; Magdon-Ismail, M.; Lin, H-S. \u201cLearning from data\u201d. AMLBook, 2012;",
+      "Hastie, T.; Tibshirani, R.; Friedman, J. \u201cThe elements of statistical learning\u201d. 2\u00aa edi\u00e7\u00e3o, Springer, 2016;",
+      "Kecman, V. \u201cLearning and Soft Computing\u201d. MIT Press, 2001;",
+      "Bishop, C.M. \u201cPattern Recognition and Machine Learning\u201d. Springer, 2006."
+    ],
+    "Bibliografia_Complementar": [
+      "Duda, R.O.; Hart, P.E.; Stork, D.G. \u201cPattern Classification\u201d. 2\u00aa edi\u00e7\u00e3o, Wiley-Interscience, 2000;",
+      "Murphy, K.P. \u201cMachine Learning: a Probabilistic Perspective\u201d. MIT Press, 2012;",
+      "Scholkopf, B.; Smola, A.J. \u201cLearning with kernels: support vector machines, regularization, optimization, \nand beyond\u201d. MIT press, 2001;",
+      "Paula, G.A. \u201cModelos de Regress\u00e3o com Apoio Computacional\u201d. Apostila, USP;",
+      "McCullagh, P.; Nelder, J.A. \u201cGeneralized linear models\u201d. 2\u00aa edi\u00e7\u00e3o, Chapman & Hall, 1989."
+    ]
+  },
+  {
+    "Nome": "Aprendizado Profundo",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Fundamentos matem\u00e1ticos para redes neurais",
+      "Perceptrons e multi-Layer perceptrons",
+      "Deep learn",
+      "Redes \nfeedforward",
+      "Backpropagation",
+      "Regulariza\u00e7\u00e3o",
+      "Performance",
+      "Avalia\u00e7\u00e3o do aprendizado",
+      "Tarefas e arquiteturas de \nredes neurais: Convolutional neural networks (CNNs)",
+      "Modelos sequenciais: recurrent neural networks (RNNs); \nlong short term memory networks (LSTMs); generative adversarial networks (GANs)",
+      "Transfer learning",
+      "Hopfield \nnetworks",
+      "Boltzmann machine network",
+      "Deep belief networks",
+      "Deep auto-encoders",
+      "Capsule networks",
+      "deep learning \npara PLN",
+      "Pesquisa em deep learn",
+      "Modelos open source",
+      "Algoritmos",
+      "Plataformas de hardware e software",
+      "Exemplos"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Goodfellow, I.; Bengio, Y.; Courville, A. \u201cDeep learning\u201d. MIT press, 2016, Dispon\u00edvel em: \nhttp://www.deeplearningbook.org/",
+      "Nielsen, \nM.A. \n\u201cNeural \nNetworks \nand \nDeep \nLearning\u201d. \n2015, \nDispon\u00edvel \nem: \nhttp://neuralnetworksanddeeplearning.com/",
+      "Andrew, N.G. \u201cMachine Learning Yearning\u201d. 2019, Dispon\u00edvel em: http://www.mlyearning.org/",
+      "Patterson, J.; Gibson, A. \u201cDeep Learning: A Practitioner's Approach\u201d. O'Reilly Media, 2017."
+    ],
+    "Bibliografia_Complementar": [
+      "McClure, N. \u201cTensorFlow machine learning cookbook\u201d. 2\u00aa edi\u00e7\u00e3o, Packt Publishing, 2018;",
+      "Abu-Moustafa, Y.S.; Magdon-Ismail, M.; Lin, H-S. \u201cLearning from data\u201d. AMLBook, 2012;",
+      "Hastie, T.; Tibshirani, R.; Friedman, J. \u201cThe elements of statistical learning\u201d. 2\u00aa edi\u00e7\u00e3o, Springer, 2016;",
+      "Barroso, L.A.; Clidaras, J.; H\u00f6lzle, U. \u201cThe Datacenter as a Computer: An Introduction to the Design of \nWarehouse-Scale Machines\u201d. 2\u00aa edi\u00e7\u00e3o, Morgan & Claypool Publishers, 2013."
+    ]
+  },
+  {
+    "Nome": "Visualiza\u00e7\u00e3o de Dados",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o: Visualiza\u00e7\u00e3o cient\u00edfica, visualiza\u00e7\u00e3o de informa\u00e7\u00f5es e visualiza\u00e7\u00e3o de software",
+      "Problemas e \nlimita\u00e7\u00f5es da Visualiza\u00e7\u00e3o",
+      "Utiliza\u00e7\u00e3o do computador na an\u00e1lise de dados",
+      "T\u00e9cnicas b\u00e1sicas de visualiza\u00e7\u00e3o: \nclassifica\u00e7\u00e3o de t\u00e9cnicas de visualiza\u00e7\u00e3o e seus dados",
+      "Taxonomias para visualiza\u00e7\u00e3o",
+      "Discuss\u00e3o sobre a distin\u00e7\u00e3o \nentre visualiza\u00e7\u00e3o cient\u00edfica e de informa\u00e7\u00e3o",
+      "Organiza\u00e7\u00e3o e tipos de dados em visualiza\u00e7\u00e3o",
+      "T\u00e9cnicas de \nvisualiza\u00e7\u00e3o volum\u00e9trica",
+      "T\u00e9cnicas volum\u00e9tricas baseadas em superf\u00edcies",
+      "T\u00e9cnicas de visualiza\u00e7\u00e3o volum\u00e9trica \ndireta",
+      "Compara\u00e7\u00e3o entre t\u00e9cnicas baseadas em superf\u00edcies e volum\u00e9tricas",
+      "Visualiza\u00e7\u00e3o de vetoriais",
+      "Visualiza\u00e7\u00e3o \nde dados multidimensionais: registros; textos; s\u00e9ries temporais; imagens e outros",
+      "Associa\u00e7\u00e3o e exemplos da \nvisualiza\u00e7\u00e3o com a minera\u00e7\u00e3o de dados (Minera\u00e7\u00e3o visual de dados)",
+      "T\u00e9cnicas alternativas de representa\u00e7\u00e3o de \ndados: glyphs; som; texturas; realidade virtual e outras",
+      "Sistemas de visualiza\u00e7\u00e3o",
+      "Introdu\u00e7\u00e3o a um sistema de \nvisualiza\u00e7\u00e3o",
+      "Exemplos e pr\u00e1tica"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Schroeder, W.J.; Martin, K.; Lorensen, W. \u201cThe Visualization Toolkit - An Object-Oriented Approach to \n3D Graphics\u201d. 4\u00aa edi\u00e7\u00e3o, Prentice-Hall, 2006;",
+      "Banin, S.L. \u201cPython 3: Conceitos e aplica\u00e7\u00f5es: Uma abordagem did\u00e1tica\u201d. \u00c9rica, 2018."
+    ],
+    "Bibliografia_Complementar": [
+      "McKinney, W. \u201cPython Para An\u00e1lise de Dados: Tratamento de Dados com Pandas, NumPy e IPython\u201d. \nNovatec, 2018;",
+      "Minghim, , R.; Levkowitz, H. \u201cVisual Mining of Text Collections\u201d. Eurographics Tutorial Notes 11, 2007;",
+      "Nelson, G.M.; Hagen, H.; M\u00fcller, H. \u201cScientific Visualization-Overviews, Methodologies, Techniques\u201d. \nIEEE CS Press, 1997;",
+      "Spence, R. \u201cInformation Visualization: An Introduction\u201d. 3\u00aa edi\u00e7\u00e3o, Springer, 2014."
+    ]
+  },
+  {
+    "Nome": "Minera\u00e7\u00e3o Estat\u00edstica de Dados",
+    "Carga": "4 cr\u00e9ditos (te\u00f3rica: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Coleta de dados e entendimento do neg\u00f3cio",
+      "Pr\u00e9-processamento de dados: limpeza de dados; \ntransforma\u00e7\u00e3o de vari\u00e1veis; cria\u00e7\u00e3o de vari\u00e1veis; redu\u00e7\u00e3o de dimensionalidade",
+      "Modelagem: an\u00e1lise explorat\u00f3ria de \ndados; modelagem de depend\u00eancia usando regras de associa\u00e7\u00e3o; agrupamento (an\u00e1lise de clusters); detec\u00e7\u00e3o de \nanomalias (detec\u00e7\u00e3o de outliers)",
+      "An\u00e1lise preditiva: m\u00e9tricas de avalia\u00e7\u00e3o; modelos baseados em \u00e1rvores; SVM \n(support vector machines); modelos Ensembles",
+      "Avalia\u00e7\u00e3o: os m\u00e9todos holdout e de subamostragem aleat\u00f3ria; \nvalida\u00e7\u00e3o cruzada; estimativas bootstrap",
+      "Relat\u00f3rios e apresenta\u00e7\u00e3o: relat\u00f3rios por documentos din\u00e2micos; \napresenta\u00e7\u00e3o via aplicativos web"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Hastie, T.; Tibshirani, R.; Friedman, J.\u201cThe Elements of Statistical Learning: Data Mining, Inference, and \nPrediction\u201d. 2\u00aa edi\u00e7\u00e3o, Springer, 2016;",
+      "Louzada-Neto, F.; Diniz, C.A.R. \u201c \u00e9       E                         g\u201d. IMCA, 2002;",
+      "Torgo, L. \u201cData mining with R: Learning with case studies\u201d. 2\u00aa edi\u00e7\u00e3o, CRC Press, 2017."
+    ],
+    "Bibliografia_Complementar": [
+      "Theodoridis, S.; Koutroumbas, K. \u201cPattern Recognition\u201d. 4\u00aa edi\u00e7\u00e3o, Academic Press, 2008;",
+      "Tan, P-N.; Steinbach, M.; Kumar, V. \u201cIntroduction to Data Mining\u201d. Addison Wesley, 2005;",
+      "Zacharski, \nR. \n\u201cA \nProgrammer's \nGuide \nto \nData \nMining\u201d. \nDispon\u00edvel \nem:  \nhttps://github.com/zacharski/pg2dm-python \nFaceli, K.; Lorena, A.C.; Gama, J.; Carvalho, A.C.P.L.F. \u201cIntelig\u00eancia Artificial Uma Abordagem de Aprendizado \nde M\u00e1quina\u201d. LTC, 2011."
+    ]
+  },
+  {
+    "Nome": "Libras",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Linguas e Sinais",
+    "Ementa": [
+      "Aspectos s\u00f3cio-hist\u00f3ricos, lingu\u00edsticos e culturais da Surdez",
+      "Concep\u00e7\u00f5es de linguagem, l\u00edngua e fala e \nsuas implica\u00e7\u00f5es no campo da surdez",
+      "Elementos definidores do status lingu\u00edstico da L\u00edngua de Sinais",
+      "Aspectos \nfonol\u00f3gicos, morfol\u00f3gicos, sint\u00e1ticos e sem\u00e2ntico-pragm\u00e1ticos da L\u00edngua Brasileira de Sinais",
+      "A LIBRAS na rela\u00e7\u00e3o \nfala/escrita"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Gesser, A. \u201cLibras? Que l\u00edngua \u00e9 essa?: cren\u00e7as e preconceitos em torno da l\u00edngua de sinais e da \nrealidade surda\u201d. Par\u00e1bola, 2009;",
+      "Honora, M. \u201cLivro ilustrado de L\u00edngua Brasileira de Sinais: desvendando a comunica\u00e7\u00e3o usada pelas \npessoas com surdez\u201d. Ciranda Cultural, 2009."
+    ],
+    "Bibliografia_Complementar": [
+      "Ferreira, L. \u201cPor uma gram\u00e1tica de l\u00edngua de sinais\u201d. Tempo Brasileiro, 2010."
+    ]
+  },
+  {
+    "Nome": "S\u00e9ries Temporais",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o aos modelos de s\u00e9ries temporais",
+      "Alisamento exponencial",
+      "Modelos de m\u00e9dias m\u00f3veis e fun\u00e7\u00e3o \nde autocorrela\u00e7\u00e3o",
+      "Modelos autoregressivos e fun\u00e7\u00e3o de autocorrela\u00e7\u00e3o parcial",
+      "Modelos auto-regressivos e de \nm\u00e9dias m\u00f3veis",
+      "Modelos ARIMA",
+      "Sazonalidade: SARMA e SARIMA",
+      "Modelagem de S\u00e9ries Temporais com \nVari\u00e1veis Ex\u00f3genas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Gujarati, D.;  Yamagami, C.; Virgillito, S.B. \u201cEconometria: Princ\u00edpios, teoria e aplica\u00e7\u00f5es pr\u00e1ticas\u201d. \nEditora Saraiva, 2019;",
+      "Morettin, P. A., Toloi, C. M. C. \u201cAn\u00e1lise de S\u00e9ries Temporais\u201d. 3\u00aa edi\u00e7\u00e3o,  Blucher, 2018."
+    ],
+    "Bibliografia_Complementar": [
+      "Hamilton, J.D. \u201cTime Series Analysis\u201d. Princeton University Press, 1994."
+    ]
+  },
+  {
+    "Nome": "Ci\u00eancia de Dados em Finan\u00e7as",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Parte I - Fundamentos de finan\u00e7as: introdu\u00e7\u00e3o \u00e0 macroeconomia: taxa b\u00e1sica de juros, infla\u00e7\u00e3o, \u00edndices \ninflacion\u00e1rios, curvas IS e LM, demanda agregada, oferta agregada; introdu\u00e7\u00e3o \u00e0s finan\u00e7as: tipos de t\u00edtulos de renda \nfixa; taxa livre de risco e medidas de risco de um pa\u00eds; modelos de precifica\u00e7\u00e3o de ativos: avalia\u00e7\u00e3o por m\u00faltiplos; \navalia\u00e7\u00e3o por fluxo de caixa descontado",
+      "Parte II - An\u00e1lise de dados financeiros: estruturas de dados financeiros: \ncomo obter dados financeiros e como trat\u00e1-los em R e Python; s\u00e9ries temporais em finan\u00e7as: modelos de alisamento \nexponencial e ARIMA aplicados a dados financeiros com o uso do R e Python; previs\u00e3o de dados financeiros a \npartir destes modelos",
+      "Visualiza\u00e7\u00e3o de dados financeiros em R e Python",
+      "An\u00e1lise de portfolio: realizar backtest, \nanalisar e otimizar portfolios financeiros",
+      "Parte III - Aprendizagem de m\u00e1quina em finan\u00e7as: modelagem",
+      "Valida\u00e7\u00e3o \ncruzada em finan\u00e7as",
+      "Backtesting",
+      "Aloca\u00e7\u00e3o de ativos via aprendizagem de m\u00e1quina",
+      "Estrat\u00e9gias de trading em alta \nfrequ\u00eancia: Indicadores de tend\u00eancia e volatilidade; sinais de compra e venda; regras de compra e venda com base \nem sinais; an\u00e1lise da estrat\u00e9gia: fator de lucro, percentual positivo; \u00edndice de Sharpe"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Barbosa, \nF. \nH. \n\u201cMacroeconomia\u201d. \nTexto \ndispon\u00edvel \nem: \nhttp://www.fgv.br/professor/epge/fholanda/Arquivo/Macroeconomia.pdf",
+      "Blanchard, O. \u201cMacroeconomia\u201d. Pearson, 2017;",
+      "Marion, J. C. \u201cContabilidade B\u00e1sica\u201d. 12\u00aa edi\u00e7\u00e3o, Editora Atlas, 2018;",
+      "Povoa, A. \u201cValuation: Como precificar a\u00e7\u00f5es\u201d. Elsevier, 2012."
+    ],
+    "Bibliografia_Complementar": [
+      "Shumway, R.H.; Stoffer, D.S. \u201cTime Series: A Data Analysis Approach Using R\u201d. Chapman & Hall, 2019;",
+      "Chatfield, C.; Xing, H. \u201cThe Analysis of Time Series: An Introduction with R\u201d. 7\u00aa edi\u00e7\u00e3o, Routledge, 2019;",
+      "Prado, L. \u201cAdvances in Financial Machine Learning\u201d. Wiley, 2018;",
+      "Klaas, J. \u201cMachine Learning for Finance: Principles and practice for financial insiders\u201d. Packt, 2019."
+    ]
+  },
+  {
+    "Nome": "Sistemas Inteligentes Aplicados ao Setor Energ\u00e9tico",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Aplica\u00e7\u00f5es da ci\u00eancia de dados ao setor de petr\u00f3leo, g\u00e1s e energia",
+      "Anal\u00edtica do petr\u00f3leo e mercado \nenerg\u00e9tico",
+      "Modelagem baseada em dados",
+      "Modelos substitutos",
+      "Estrat\u00e9gias otimizadas de produ\u00e7\u00e3o",
+      "Redes neurais \nrecorrentes",
+      "Modelagem preditiva da energia",
+      "Sistemas inteligentes aplicados \u00e0 ind\u00fastria"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Mohaghegh, S.D. \u201cData-Driven Reservoir Modeling\u201d. Society of Petroleum Engineers, 2017;",
+      "Carvajal, G.; Maucec, M.; Cullick, S. \u201cIntelligent digital oil and gas fields: concepts, collaboration, and \nright-time decisions\u201d. Gulf Professional Publishing, 2017;",
+      "Holdaway, K.R. \u201cHarness oil and gas big data with analytics: Optimize exploration and production with \ndata-driven models\u201d. Wiley, 2014;",
+      "Misra, S.; Li, H.; He, J. \u201cMachine Learning for Subsurface Characterization\u201d, Gulf Professional \nPublishing, 2019."
+    ],
+    "Bibliografia_Complementar": [
+      "Reddy, T. \u201cAgami. Applied data analysis and modeling for energy engineers and scientists\u201d. Springer \nScience & Business Media, 2011;",
+      "Mohaghegh, S.D. \u201cShale Analytics: Data-Driven Analytics in Unconventional Resources\u201d. Springer, 2017;",
+      "McGowan, J. \u201cEnergy and Analytics: BIG DATA and Building Technology Integration\u201d. Fairmont Press, \n2015."
+    ]
+  },
+  {
+    "Nome": "Vis\u00e3o Computacional",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Fundamentos de uma Imagem Digital",
+      "Digitaliza\u00e7\u00e3o e Representa\u00e7\u00e3o de Imagens",
+      "Elementos de um \nSistema de Tratamento de Imagens",
+      "Percep\u00e7\u00e3o Visual",
+      "Prop\u00f3sito da Vis\u00e3o e suas Aplica\u00e7\u00f5es",
+      "Forma\u00e7\u00e3o da Imagem",
+      "Sensores",
+      "N\u00edveis de Vis\u00e3o e Teorias Computacionais",
+      "Vis\u00e3o de Baixo N\u00edvel: Filtragem, Detec\u00e7\u00e3o de Bordas, e \nAgrupamento",
+      "Vis\u00e3o de N\u00edvel Intermedi\u00e1rio: Superf\u00edcies e Movimento",
+      "Vis\u00e3o de Alto N\u00edvel: Reconhecimento e \nModelagem de objetos Bi e Tri-dimensionais"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Mallot, H. \u201cComputational Vision: Information Processing in Perception and Visual Behavior\u201d. 2\u00aa edi\u00e7\u00e3o, \nThe MIT Press, 2000;",
+      "Hanalick, R.; Shapiro, L. \u201cComputer and Robot Vison, Volume 1\u201d.  Addison-Wesley, 1991;",
+      "Hanalick, R.; Shapiro, L. \u201cComputer and Robot Vison, Volume 2\u201d.  Prentice Hall, 2002."
+    ],
+    "Bibliografia_Complementar": [
+      "Shapiro, L.G.; Stockman, G. \u201cComputer Vision\u201d. Pearson, 2001;",
+      "Forsyth, D.A.; Ponce, J. \u201cComputer Vision: A modern approach\u201d. Prentice Hall, 2003."
+    ]
+  },
+  {
+    "Nome": "Processamento de Linguagem Natural",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Vis\u00e3o geral da \u00e1rea de Processamento de L\u00ednguas Naturais: recursos, ferramentas e aplica\u00e7\u00f5es; abordagens \ne paradigmas para interpreta\u00e7\u00e3o e gera\u00e7\u00e3o de l\u00edngua natural",
+      "Conceitos b\u00e1sicos: c\u00f3rpus, leis de Zipf, Luhn, entropia e \ncomplexidade das l\u00ednguas, n\u00edveis de tratamento das l\u00ednguas naturais",
+      "Introdu\u00e7\u00e3o \u00e0 morfologia e morfossintaxe, \nt\u00e9cnicas de etiqueta\u00e7\u00e3o morfossint\u00e1tica",
+      "Modelos e t\u00e9cnicas de an\u00e1lise sint\u00e1tica",
+      "Modelos formais de representa\u00e7\u00e3o \nsem\u00e2ntica e t\u00e9cnicas de an\u00e1lise: sem\u00e2ntica lexical e sentencial",
+      "Discurso e pragm\u00e1tica: conceitos, modelos e m\u00e9todos \nde an\u00e1lise"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Jurafsky, D.; Martin, J.H. \u201cSpeech and Language Processing: An Introduction to Natural Language \nProcessing, Computational Linguistics and Speech Recognition\u201d. 1\u00aa edi\u00e7\u00e3o, Pearson, 2008;",
+      "Manning, C.D.; Sch\u00fctze, H. \u201cFoundations of Statistical Natural Language Processing\u201d. 1\u00aa edi\u00e7\u00e3o, The \nMIT Press, 1999."
+    ],
+    "Bibliografia_Complementar": [
+      "Allen, J. \u201cNatural Language Understanding\u201d. 2\u00aa edi\u00e7\u00e3o, Pearson, 1995;",
+      "Mitkov, R. \u201cThe Oxford Handbook of Computational Linguistics\u201d. Oxford University Press, 2005;",
+      "Reiter, E.; Dale, R. \u201cBuilding Natural Language Generation Systems\u201d. Cambridge University Press, 2000."
+    ]
+  },
+  {
+    "Nome": "Teoria da Computa\u00e7\u00e3o",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "M\u00e1quina de Turing, fun\u00e7\u00f5es recursivas e lambda c\u00e1lculo",
+      "Fundamentos da programa\u00e7\u00e3o funcional",
+      "Computabilidade efetiva",
+      "Tese de Church",
+      "Teorema de incompletude de G\u00f6del",
+      "Problemas indecid\u00edveis",
+      "Teoremas \nde Post e de Rice"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Sipser, M. \u201cIntrodu\u00e7\u00e3o \u00e1 teoria da computa\u00e7\u00e3o\u201d. 2\u00aa edi\u00e7\u00e3o, Cengage Learning, 2005;",
+      "Martin, J.C. \u201cIntroduction to Languages and the Theory of Computation\u201d. 4\u00aa edi\u00e7\u00e3o McGraw-Hill, 2010;",
+      "Lewis, H.; Papadimitriou, C. \u201cElements of the Theory of Computation\u201d. 2\u00aa edi\u00e7\u00e3o Prentice Hall, 1997."
+    ],
+    "Bibliografia_Complementar": [
+      "Hopcroft, J.E.; Ullman, J.D.; Motwani, R. \u201cIntrodu\u00e7\u00e3o \u00e0 teoria de aut\u00f4matos, linguagens e computa\u00e7\u00e3o\u201d. \nElsevier, 2002;",
+      "Revesz, G.E. \u201cLambda-Calculus, Combinators and Functional Programming\u201d. Cambridge University \nPress, 1988."
+    ]
+  },
+  {
+    "Nome": "Arquitetura de Computadores I",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Sistemas de Computa\u00e7\u00e3o",
+    "Ementa": [
+      "Linguagem de m\u00e1quina",
+      "Linguagem de montagem",
+      "Montagem e liga\u00e7\u00e3o",
+      "Modos de endere\u00e7amento",
+      "Interrup\u00e7\u00f5es e armadilhas",
+      "O conjunto de instru\u00e7\u00f5es",
+      "Implementa\u00e7\u00e3o de estruturas de controle de fluxo em \nAssembly",
+      "Projetos de programa\u00e7\u00e3o em assembly",
+      "M\u00e1quinas multin\u00edveis",
+      "Fluxo de dados",
+      "M\u00e1quinas \nmicroprogramadas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Tanembaum, A.S. \u201cOrganiza\u00e7\u00e3o Estruturada de Computadores\u201d. 6\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2013;",
+      "Zelenovsky R.; Mendon\u00e7a, A. \u201cPC: Um Guia Pr\u00e1tico de Hardware e Interfaceamento\u201d. 4\u00aa edi\u00e7\u00e3o, MZ \nEditora , 2006;",
+      "Hahn, H. \u201cThe Complete Guide to IBM PC AT Assembly Language\u201d. Scott Foresma, 1987."
+    ],
+    "Bibliografia_Complementar": [
+      "Stallings, W. \u201cArquitetura e Organiza\u00e7\u00e3o de Computadores\u201d. 10\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2017;",
+      "Monteiro, M.A. \u201cIntrodu\u00e7\u00e3o \u00e0 Organiza\u00e7\u00e3o de Computadores\u201d. 5\u00aa edi\u00e7\u00e3o, LTC, 2007."
+    ]
+  },
+  {
+    "Nome": "Ger\u00eancia de Projetos",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Organiza\u00e7\u00f5es, Projetos, Ger\u00eancia de Projetos, Processos da Ger\u00eancia de Projetos, Ger\u00eancia do \nConhecimento aplicada \u00e0 Ger\u00eancia de Projetos"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Dinsmore, P.C. \u201cComo se tornar um Profissional em Gerenciamento de Projetos\u201d. 4\u00aa edi\u00e7\u00e3o, QualityMark, \n2011;",
+      "Heldman, K. \u201cGer\u00eancia de Projetos\u201d. 7\u00aa edi\u00e7\u00e3o, Elsevier, 2014;",
+      "Kerzner, H. \u201cProject Management: A Systems Approach to Planning, Scheduling and Controlling\u201d. 12\u00aa \nedi\u00e7\u00e3o, Wiley, 2017."
+    ],
+    "Bibliografia_Complementar": [
+      "Laudon, K.C.; Laudon, J.P. \u201cSistemas de Informa\u00e7\u00e3o Gerenciais - Administrando a Empresa Digital\u201d. 11\u00aa \nedi\u00e7\u00e3o, Pearson  Universidades, 2014."
+    ]
+  },
+  {
+    "Nome": "Introdu\u00e7\u00e3o ao Processamento Digital de Imagens",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Imagem digital",
+      "Sistemas de processamento de imagens digitais",
+      "Elementos de percep\u00e7\u00e3o visual",
+      "Fundamentos de cor",
+      "Amostragem e quantiza\u00e7\u00e3o",
+      "Transformada de Fourier e outras transformadas \u00fateis",
+      "T\u00e9cnicas de \nmodifica\u00e7\u00e3o da escala de cinza",
+      "Opera\u00e7\u00f5es com imagens",
+      "Filtragem",
+      "Pseudocolora\u00e7\u00e3o",
+      "Restaura\u00e7\u00e3o"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Castleman, K. \u201cDigital Image Processing\u201d. Pearson, 1995;",
+      "Gonzales, R.C.; Woods, R.E. \u201cProcessamento Digital de Imagens\u201d. 3\u00aa edi\u00e7\u00e3o, Pearson, 2009;",
+      "Pratt, W. \u201cDigital Image Processing\u201d. 4\u00aa edi\u00e7\u00e3o, Wiley, 2007."
+    ],
+    "Bibliografia_Complementar": [
+      "Pedrini, H.; Schwartz, W.R. \u201cAn\u00e1lise de imagens digitais: princ\u00edpios, algoritmos e aplica\u00e7\u00f5es\u201d. Thomson \nLearning, 2008."
+    ]
+  },
+  {
+    "Nome": "Sistemas Operacionais I",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Conceitos b\u00e1sicos de sistemas operacionais",
+      "Ger\u00eancia de processador",
+      "Ger\u00eancia de mem\u00f3ria",
+      "Ger\u00eancia de \nentrada/sa\u00edda",
+      "Sistemas de arquivos",
+      "Seguran\u00e7a em sistemas operacionais",
+      "Estudos de casos"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Silberschatz, A.; Gagne, G.; Galvin, P.B. \u201cFundamentos de sistemas operacionais\u201d. 1\u00aa edi\u00e7\u00e3o, LTC, 2013;",
+      "Tanenbaum, A.S. \u201cSistemas operacionais modernos\u201d. 4\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2015;",
+      "Oliveira, R.S.; Carissimi, A.S.; Toscani, S.S. \u201cSistemas operacionais\u201d. 4\u00aa edi\u00e7\u00e3o, Bookman, 2010."
+    ],
+    "Bibliografia_Complementar": [
+      "Tanenbaum, A.S.; Woodhull, A.S.\u201cSistemas operacionais: projeto e implementa\u00e7\u00e3o\u201d. 3\u00aa edi\u00e7\u00e3o, Bookman, \n2008;",
+      "Stallings, W. \u201cOperating systems: internal and design principles\u201d. 9\u00aa edi\u00e7\u00e3o, Pearson, 2017."
+    ]
+  },
+  {
+    "Nome": "Internet das Coisas",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Sistemas de Computa\u00e7\u00e3o",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o \u00e0 Internet das Coisas: Conceitos, Hist\u00f3rico, Principais Tecnologias, Arquiteturas, Aplica\u00e7\u00f5es, \nEvolu\u00e7\u00e3o; Introdu\u00e7\u00e3o ao BigData: Princ\u00edpios Introdut\u00f3rios e suas propriedades",
+      "Conceitos relacionados \u00e0 variedade, \nvolume e velocidade de acesso aos dados",
+      "Infraestutura e t\u00e9cnicas para a extra\u00e7\u00e3o de grandes volumes de dados",
+      "Ferramentas web para remotamente analisar dados; Introdu\u00e7\u00e3o ao Cloud Computing: Apresenta\u00e7\u00e3o de Conceitos \nfundamentais de computa\u00e7\u00e3o em nuvem, considerando aspectos te\u00f3ricos e pr\u00e1ticos; Sustentabilidade e Tecnologias \nDigitais: Conceitos, Desafios, Data Center Verde, Aspesctos Sociais e Financeiros; Requisistos e Infraestrutura para \nIoT (Hardware e Software): Metodologias para especifica\u00e7\u00e3o, projeto e execu\u00e7\u00e3o",
+      "Introdu\u00e7\u00e3o aos Sistemas \nEmbarcados",
+      "Controle de Sistemas Eletr\u00f4nicos pela Internet",
+      "Middlewares para IoT; Redes de Sensores e \nTecnologias de Comunica\u00e7\u00e3o: Introdu\u00e7\u00e3o aos conceitos de RSSF; Tecnologias de Rastreamento: Introdu\u00e7\u00e3o ao \nrastreamento e suas t\u00e9cnicas, aplica\u00e7\u00f5es e servi\u00e7os; Desenvolvimento de Aplica\u00e7\u00f5es para IoT: Apresentar solu\u00e7\u00f5es \nde mercado em diversas \u00e1reas, incluindo o setor publico (sa\u00fade, educa\u00e7\u00e3o, patrim\u00f4nio) e privado: logistica, energia, \netc",
+      "Estudo de casos reais de sistemas desenvolvidos no mundo",
+      "Discuss\u00f5es sobre o planejamento de uma aplica\u00e7\u00e3o \nenvolvendo as \u00e1reas acima citadas; Avalia\u00e7\u00e3o de Desempenho de Sistemas Computacionais para IoT: Planejamento \nde Experimentos, Configura\u00e7\u00e3o do Ambiente, Execu\u00e7\u00e3o de Experimentos e An\u00e1lise dos Resultados"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "McEwen, A.; Cassimally, H. \u201cDesigning the Internet of Things\u201d. Wiley, 2013;",
+      "Mukhopadhyay, S.C. \u201cInternet of Things: Challenges and Opportunities\u201d. Springer, 2014."
+    ],
+    "Bibliografia_Complementar": [
+      "Miller, M. \u201cThe Internet of Things: How Smart TVs, Smart Cars, Smart Homes, and Smart Cities Are \nChanging the World\u201d. Que Publishing, 2015; \nVermesan, O.; Friess, P. \u201cInternet of Things: Converging Technologies for Smart Environments and Integrated \nEcosystems\u201d. River Publishers, 2013."
+    ]
+  },
+  {
+    "Nome": "Recupera\u00e7\u00e3o da Informa\u00e7\u00e3o",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Hist\u00f3rico e terminologia",
+      "Caracteriza\u00e7\u00e3o do problema da recupera\u00e7\u00e3o: o problema de recupera\u00e7\u00e3o de \ninforma\u00e7\u00e3o; o sistema de recupera\u00e7\u00e3o de informa\u00e7\u00e3o; a Web",
+      "O processo de recupera\u00e7\u00e3o",
+      "Modelos de recupera\u00e7\u00e3o: \nmodelagem e ranking; o modelo cl\u00e1ssico; modelos alternativos",
+      "Avalia\u00e7\u00e3o de sistemas de recupera\u00e7\u00e3o textual: \nm\u00e9tricas; cole\u00e7\u00f5es de refer\u00eancia; avalia\u00e7\u00e3o baseada em usu\u00e1rios",
+      "Indexa\u00e7\u00e3o e busca textual",
+      "Processamento e \nagrupamento de documentos",
+      "Busca na web"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Baeza-Yates, R.A.; Ribeiro-Neto, B. \u201cModern Information Retrieval\u201d. 2\u00aa edi\u00e7\u00e3o, ACM Press Books, 2012;",
+      "Baeza-Yates, R.A.; Ribeiro-Neto, B. \u201cRecupera\u00e7\u00e3o de Informa\u00e7\u00e3o - Conceitos e Tecnologia das M\u00e1quinas \nde Busca\u201d. 2\u00aa edi\u00e7\u00e3o, Bookman, 2013."
+    ],
+    "Bibliografia_Complementar": [
+      "Manning, C.D.; Raghavan, P.; Sch\u00fctze, H. \u201cIntroduction to Information Retrieval\u201d. Cambridge University \nPress, 2008."
+    ]
+  },
+  {
+    "Nome": "Sistemas de Recomenda\u00e7\u00e3o",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Hist\u00f3rico e terminologia",
+      "Conceitos b\u00e1sicos: avalia\u00e7\u00f5es; predi\u00e7\u00f5es; recomenda\u00e7\u00f5es e taxonomia",
+      "Recomenda\u00e7\u00e3o colaborativa: baseada em mem\u00f3ria e baseada em modelos",
+      "Recomenda\u00e7\u00e3o baseada em conte\u00fado: \nrepresenta\u00e7\u00e3o baseada em similaridade e em classifica\u00e7\u00e3o",
+      "Recomenda\u00e7\u00e3o baseada em conhecimento: representa\u00e7\u00e3o; \ninfer\u00eancia baseada em restri\u00e7\u00f5es e exemplos; mecanismos de intera\u00e7\u00e3o",
+      "Recomenda\u00e7\u00e3o h\u00edbrida: estrat\u00e9gias e \nconceitos",
+      "Avalia\u00e7\u00e3o de recomendadores: m\u00e9tricas de avalia\u00e7\u00e3o; avalia\u00e7\u00e3o offline e online; projeto experimental e \nmodelos de decis\u00e3o",
+      "T\u00f3picos avan\u00e7ados: seguran\u00e7a e privacidade, interpretabilidade, diversidade e novidade, \nsocializa\u00e7\u00e3o e ubiquidade"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Jannach, D.; Zanker, M.; Felfernig, A.; Friedrich, G. \u201cRecommender Systems: An Introduction\u201d. Cambridge \nUniversity Press, 2010;",
+      "Ricci, F.; Rokach, L.; Shapira, B.; Kantor, P.B. \u201cRecommender Systems Handbook\u201d. Springer, 2010."
+    ],
+    "Bibliografia_Complementar": [
+      "Aggarwal, C.C. \u201cRecommender Systems: The Textbook\u201d. Springer, 2016;",
+      "Agarwal, D.K.; Chen, B-C. \u201cStatistical Methods for Recommender Systems\u201d. Cambridge University Press, \n2016."
+    ]
+  },
+  {
+    "Nome": "M\u00e9todos de Projeto de Software",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Inform\u00e1tica",
+    "Ementa": [
+      "Aspectos fundamentais do projeto de software",
+      "T\u00e9cnicas de modulariza\u00e7\u00e3o",
+      "M\u00e9todos, t\u00e9cnicas e \nferramentas para projeto de sistemas",
+      "Aplica\u00e7\u00f5es pr\u00e1ticas dos conceitos estudados"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Pressman, R.S. \u201cEngenharia de Software: Uma Abordagem Profissional\u201d. 8\u00aa edi\u00e7\u00e3o, AMGH, 2016;",
+      "Sommerville, I. \u201cEngenharia de Software\u201d. 9\u00aa edi\u00e7\u00e3o, Pearson Universidades, 2011;"
+    ],
+    "Bibliografia_Complementar": [
+      "Ghezzi, C.; Jazayeri, M.; Mandrioli, D. \u201cFundamentals of Software Engineering\u201d, Prentice-Hall, 1991."
+    ]
+  },
+  {
+    "Nome": "M\u00e9todos Num\u00e9ricos II",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o \u00e0s EDPs: Classifica\u00e7\u00e3o, Caracter\u00edsticas, Discretiza\u00e7\u00e3o",
+      "Malhas num\u00e9ricas",
+      "M\u00e9todo de \nDiferen\u00e7as Finitas",
+      "Operadores discretos",
+      "EDPs cl\u00e1ssicas: Poisson, Laplace, Calor, Onda, Advec\u00e7\u00e3o-Difus\u00e3o-\nRea\u00e7\u00e3o",
+      "M\u00e9todos num\u00e9ricos e t\u00e9cnicas gerais para EDPs el\u00edpticas, parab\u00f3licas e hiperb\u00f3licas",
+      "Esquemas expl\u00edcitos e \nimpl\u00edcitos",
+      "Estabilidade, dispers\u00e3o e dissipa\u00e7\u00e3o num\u00e9ricas"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Cuminato, J.A.; Junior, M.M. \u201cDiscretiza\u00e7\u00e3o de Equa\u00e7\u00f5es Diferenciais Parciais\u201d. SBM, 2013;",
+      "Burden, R.L.; Faires, J.D. \u201cAn\u00e1lise Num\u00e9rica\u201d. 10\u00aa edi\u00e7\u00e3o, Cengage Learning, 2016;",
+      "Langtangen, H.P.; Linge, S. \u201cFinite Difference Computing with PDEs: A Modern Software Approach\u201d. \nSpringer, 2017."
+    ],
+    "Bibliografia_Complementar": [
+      "LeVeque, R.J. \u201cFinite Difference Methods for Ordinary and Partial Differential Equations: Steady-State \nand Time-Dependent Problems\u201d. SIAM, 2007;",
+      "Li, J.; Chen, Y-T. \u201cComputational Partial Differential Equations Using Matlab\u201d. CRC Press, 2008;",
+      "Ames, W.F. \u201cNumerical Methods for Partial Differential Equations\u201d. Academic Press, 1992."
+    ]
+  },
+  {
+    "Nome": "Desenvolvimento Web",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Tecnologias para desenvolvimento de aplica\u00e7\u00f5es web",
+      "Arquiteturas para sistemas web (3 camadas, n-\ncamadas, Restful, GraphQL)",
+      "Desenvolvimento de projeto pr\u00e1tico que envolva persist\u00eancia em Bancos de Dados \nrelacionais ou n\u00e3o-relacionais"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Fowler, M. \u201cPatterns of Enterprise Application Architecture\u201d. Addison-Wesley, 2003;",
+      "Neward, T. \u201cEffective Enterprise Java\u201d. Addison-Wesley, 2004;",
+      "Martelli, A. \u201cPython in a nutshell\u201d. 2\u00aa edi\u00e7\u00e3o, O'Reilly, 2006;",
+      "Silva, M.S. \u201cJQuery : a biblioteca do programador JavaScript\u201d. Novatec, 2009;",
+      "Meyer, E.A. \u201cCSS: the definitive guide\u201d. 3\u00aa edi\u00e7\u00e3o, O'Reilly, 2007."
+    ],
+    "Bibliografia_Complementar": [
+      "Hunt, A. \u201cThe pragmatic programmer\u201d. Addison-Wesley, 1999;",
+      "Reese, G. \u201cCloud Application Architectures\u201d. O'Reilly, 2009."
+    ]
+  },
+  {
+    "Nome": "Introdu\u00e7\u00e3o \u00e0 Criptografia",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Introdu\u00e7\u00e3o aos sistemas criptogr\u00e1ficos",
+      "Fundamentos matem\u00e1ticos da Criptografia, Conceitos B\u00e1sicos de \nteoria dos n\u00fameros, aritm\u00e9tica modular, grupos, corpos finitos, t\u00e9cnicas b\u00e1sicas da Criptografia sim\u00e9trica, \nIntrodu\u00e7\u00e3o aos sistemas de ciframento, algoritmos DES e AES, modos de opera\u00e7\u00e3o, fun\u00e7\u00f5es de resumo \ncriptogr\u00e1fico",
+      "T\u00e9cnicas b\u00e1sicas da Criptografia assim\u00e9trica, conceito de criptografia de chave p\u00fablica, o sistema \ncriptogr\u00e1fico RSA, o sistema criptogr\u00e1fico ECC, sistemas baseados em identidades (IBE), autentica\u00e7\u00e3o, introdu\u00e7\u00e3o \naos protocolos de autentica\u00e7\u00e3o, aplica\u00e7\u00f5es"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Paar, C.; Pelzl, J. \u201cUnderstanding Cryptography\u201d. Springer, 2010;",
+      "Menezes, A.J.; van Oorschot, P.C; Vanstone, S.A. \u201cHandbook of Applied Cryptography\u201d. CRC Press, \n1997;",
+      "Stinson, D.R. \u201cCryptography - Theory and Practice\u201d. 2\u00aa edi\u00e7\u00e3o, CRC Press, 2002."
+    ],
+    "Bibliografia_Complementar": [
+      "Schneier, B. \u201cApplied Cryptography\u201d. 2\u00aa edi\u00e7\u00e3o, Wiley. 2\u00aa Edi\u00e7\u00e3o, 1996;",
+      "Stallings, W. \u201cCriptografia e Seguran\u00e7a de Redes\u201d. Prentice-Hall, 2008;",
+      "Challener, D.; Yoder, K.; Catherman, R. \u201cA Practical Guide to Trusted Computing\u201d. Prentice Hall, 2007;",
+      "Silva, P.C.; Silva, L.G.C.; Aquino Junior, I.J.S. \u201cCertifica\u00e7\u00e3o Digital - Conceitos e Aplica\u00e7\u00f5es\u201d. Ci\u00eancia \nModerna, 2008."
+    ]
+  },
+  {
+    "Nome": "M\u00e9todos Matem\u00e1ticos II",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "No\u00e7\u00f5es de topologia dos espa\u00e7os m\u00e9tricos e espa\u00e7os vetoriais normados",
+      "Espa\u00e7os de Banach e de Hilbert",
+      "Espa\u00e7os de fun\u00e7\u00f5es lp e Lp",
+      "Diferenciabilidade em Rn",
+      "Teoremas da fun\u00e7\u00e3o inversa e da fun\u00e7\u00e3o impl\u00edcita",
+      "Sequ\u00eancias e s\u00e9ries de fun\u00e7\u00f5es"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Cipolatti, R. \u201cC\u00e1lculo Avan\u00e7ado, Textos Universit\u00e1rios\u201d, SBM, 2018.",
+      "Kreysig, E. \u201cIntroductory Functional Analysis with Applications\u201d. New York, John Wiley & Sons, 1978.",
+      "Lima, E.L. \u201cEspa\u00e7os M\u00e9tricos, Projeto Euclides\u201d. IMPA, 1977."
+    ],
+    "Bibliografia_Complementar": [
+      "Buck, R. C. \u201cAdvanced Calculus\u201d.  Waveland Press, INC, 1978."
+    ]
+  },
+  {
+    "Nome": "M\u00e9todos Num\u00e9ricos III",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Conceitos b\u00e1sicos do M\u00e9todo dos Elementos Finitos",
+      "Formula\u00e7\u00f5es fortes e fracas",
+      "M\u00e9todos variacionais: \nRayleigh-Ritz, Res\u00edduos Ponderados, Galerkin",
+      "An\u00e1lise de problemas unidimensionais e bidimensionais: \ndiscretiza\u00e7\u00e3o, elementos, condi\u00e7\u00f5es de contorno, t\u00e9cnicas de solu\u00e7\u00e3o, p\u00f3s-processamento e visualiza\u00e7\u00e3o",
+      "Estimativa \nde erro",
+      "Aspectos num\u00e9ricos e computacionais: gera\u00e7\u00e3o de malha, integra\u00e7\u00e3o num\u00e9rica, formula\u00e7\u00f5es \nisoparam\u00e9tricas, montagem de matrizes",
+      "Aplica\u00e7\u00f5es \u00e0 mec\u00e2nica dos fluidos e dos s\u00f3lidos"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Fish, J.; Belytschko, T. \u201cUm Primeiro Curso em Elementos Finitos\u201d. LTC, 2009.",
+      "Reddy, J. N. \u201cAn Introduction to the Finite Element Method\u201d. 2\u00aa edi\u00e7\u00e3o, McGraw-Hill, 1993.",
+      "Liu, I; Rincon, M. A. \u201cIntrodu\u00e7\u00e3o ao M\u00e9todo dos Elementos Finitos\u201d. Instituto de Matem\u00e1tica \u2013 UFRJ, \n2015."
+    ],
+    "Bibliografia_Complementar": [
+      "Zienkiewicz, O.C.; Taylor, R.L.; Zhu, J.Z. \u201cThe Finite Element Method: Its Basis and Fundamentals\u201d. \nButterworth-Heinemann, 2013.",
+      "Ern, A.; Guermond, J-L. \u201cTheory and Practice of Finite Elements\u201d, 2004.",
+      "Hughes, T.J.R. \u201cThe Finite Element Method: Linear Static and Dynamic Finite Element Analysis\u201d, Dover, \n2000.",
+      "Strang, G.; Fix, G. \u201cAn Analysis of the Finite Element Method\u201d, Wellesley-Cambridge Press, 2008.",
+      "L\u00f6hner, R. \u201cApplied computational fluid dynamics techniques : an introduction based on finite element \nmethods\u201d, 2008."
+    ]
+  },
+  {
+    "Nome": "T\u00f3picos Avan\u00e7ados I",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Ementa vari\u00e1vel a ser submetida ao colegiado do curso"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Livre"
+    ],
+    "Bibliografia_Complementar": [
+      "Livre"
+    ]
+  },
+  {
+    "Nome": "T\u00f3picos Avan\u00e7ados II",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Ementa vari\u00e1vel a ser submetida ao colegiado do curso"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Livre"
+    ],
+    "Bibliografia_Complementar": [
+      "Livre"
+    ]
+  },
+  {
+    "Nome": "T\u00f3picos Avan\u00e7ados III",
+    "Carga": "04 cr\u00e9ditos (te\u00f3ricas: 60 horas)",
+    "Departamento": "Computa\u00e7\u00e3o Cient\u00edfica",
+    "Ementa": [
+      "Ementa vari\u00e1vel a ser submetida ao colegiado do curso"
+    ],
+    "Bibliografia_Obrigat\u00f3ria": [
+      "Livre"
+    ],
+    "Bibliografia_Complementar": [
+      "Livre"
+    ]
+  }
+]

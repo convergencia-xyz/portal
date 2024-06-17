@@ -1,0 +1,556 @@
+[
+    {
+        "Nome": "Cálculo Vetorial e Geometria Analítica",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Cálculo Diferencial e Integral I",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Introdução à Programação",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Introdução ao Computador",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Introdução à Álgebra Linear",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Cálculo Vetorial e Geometria Analítica"
+        ]
+    },
+    {
+        "Nome": "Cálculo Diferencial e Integral II",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Cálculo Diferencial e Integral I"
+        ]
+    },
+    {
+        "Nome": "Matemática Discreta",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Programação Estruturada",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução à Programação",
+            "Introdução ao Computador"
+        ]
+    },
+    {
+        "Nome": "Introdução à Ciência de Dados",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução à Programação"
+        ]
+    },
+    {
+        "Nome": "Cálculo Diferencial e Integral III",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Cálculo Vetorial e Geometria Analítica",
+            "Cálculo Diferencial e Integral II"
+        ]
+    },
+    {
+        "Nome": "Álgebra Linear Computacional",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução à Álgebra Linear",
+            "Programação Estruturada"
+        ]
+    },
+    {
+        "Nome": "Estrutura de Dados",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Programação Estruturada"
+        ]
+    },
+    {
+        "Nome": "Programação Orientada a Objetos",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Programação Estruturada"
+        ]
+    },
+    {
+        "Nome": "Introdução à Inteligência Artificial",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Programação Estruturada"
+        ]
+    },
+    {
+        "Nome": "Teoria das Probabilidades",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Cálculo Diferencial e Integral III"
+        ]
+    },
+    {
+        "Nome": "Métodos Numéricos I",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução à Álgebra Linear",
+            "Cálculo Diferencial e Integral III"
+        ]
+    },
+    {
+        "Nome": "Pesquisa Operacional",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Programação Estruturada"
+        ]
+    },
+    {
+        "Nome": "Banco de Dados I",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Estrutura de Dados"
+        ]
+    },
+    {
+        "Nome": "Inferência Estatística",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Teoria das Probabilidades"
+        ]
+    },
+    {
+        "Nome": "Equações Diferenciais Ordinárias",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Cálculo Diferencial e Integral II"
+        ]
+    },
+    {
+        "Nome": "Otimização Não-Linear",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução à Álgebra Linear",
+            "Cálculo Diferencial e Integral III"
+        ]
+    },
+    {
+        "Nome": "Análise e Projeto de Algoritmos",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Estrutura de Dados"
+        ]
+    },
+    {
+        "Nome": "Teoria dos Grafos Aplicada",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Estrutura de Dados"
+        ]
+    },
+    {
+        "Nome": "Aprendizagem de Máquina",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução à Inteligência Artificial",
+            "Inferência Estatística"
+        ]
+    },
+    {
+        "Nome": "Métodos Matemáticos I",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução à Álgebra Linear",
+            "Cálculo Diferencial e Integral II"
+        ]
+    },
+    {
+        "Nome": "Engenharia de Software",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Programação Orientada a Objetos"
+        ]
+    },
+    {
+        "Nome": "Aprendizado Profundo",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução à Inteligência Artificial",
+            "Otimização Não-Linear"
+        ]
+    },
+    {
+        "Nome": "Análise Multivariada e Aprendizado Não Supervisionado",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Inferência Estatística"
+        ]
+    },
+    {
+        "Nome": "Empreendedorismo",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Visualização de Dados",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Programação Orientada a Objetos"
+        ]
+    },
+    {
+        "Nome": "Inteligência Computacional",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Estrutura de Dados"
+        ]
+    },
+    {
+        "Nome": "Mineração Estatística de Dados",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Aprendizagem de Máquina",
+            "Análise Multivariada e Aprendizado Não Supervisionado"
+        ]
+    },
+    {
+        "Nome": "Big Data",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Banco de Dados I",
+            "Mineração Estatística de Dados"
+        ]
+    },
+    {
+        "Nome": "Estágio Supervisionado",
+        "Cŕeditos": "20",
+        "Carga Horária": "300",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Metodologia do Trabalho Científico",
+        "Cŕeditos": "03",
+        "Carga Horária": "45",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Pesquisa Aplicada à Ciência de Dados",
+        "Cŕeditos": "03",
+        "Carga Horária": "45",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Computadores e Sociedade",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Trabalho de Conclusão de Curso",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Processos Estocásticos",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Teoria das Probabilidades"
+        ]
+    },
+    {
+        "Nome": "Otimização de Grande Porte",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Pesquisa Operacional"
+        ]
+    },
+    {
+        "Nome": "Redes de Computadores I",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Teoria do Controle Ótimo",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Equações Diferenciais Ordinárias"
+        ]
+    },
+    {
+        "Nome": "Programação Concorrente",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Programação Orientada a Objetos"
+        ]
+    },
+    {
+        "Nome": "Programação Linear Inteira",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Pesquisa Operacional"
+        ]
+    },
+    {
+        "Nome": "Libras",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Séries Temporais",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Inferência Estatística"
+        ]
+    },
+    {
+        "Nome": "Ciência de Dados em Finanças",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Séries Temporais"
+        ]
+    },
+    {
+        "Nome": "Sistemas Inteligentes Aplicados ao Setor Energético",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Aprendizagem de Máquina"
+        ]
+    },
+    {
+        "Nome": "Visão Computacional",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução à Álgebra Linear",
+            "Estrutura de Dados"
+        ]
+    },
+    {
+        "Nome": "Processamento de Linguagem Natural",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução à Inteligência Artificial"
+        ]
+    },
+    {
+        "Nome": "Teoria da Computação",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Arquitetura de Computadores I",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Introdução ao Computador"
+        ]
+    },
+    {
+        "Nome": "Gerência de Projetos",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Engenharia de Software"
+        ]
+    },
+    {
+        "Nome": "Introdução ao Processamento Digital de Imagens",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Estrutura de Dados"
+        ]
+    },
+    {
+        "Nome": "Sistemas Operacionais I",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Programação Estruturada",
+            "Arquitetura de Computadores I"
+        ]
+    },
+    {
+        "Nome": "Internet das Coisas",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Estrutura de Dados"
+        ]
+    },
+    {
+        "Nome": "Recuperação da Informação",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Estrutura de Dados"
+        ]
+    },
+    {
+        "Nome": "Sistemas de Recomendação",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Estrutura de Dados"
+        ]
+    },
+    {
+        "Nome": "Métodos de Projeto de Software",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Programação Orientada a Objetos"
+        ]
+    },
+    {
+        "Nome": "Física Aplicada à Computação I",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Cálculo Diferencial e Integral I"
+        ]
+    },
+    {
+        "Nome": "Métodos Numéricos II",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Métodos Numéricos I"
+        ]
+    },
+    {
+        "Nome": "Desenvolvimento Web",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Programação Orientada a Objetos",
+            "Banco de Dados I"
+        ]
+    },
+    {
+        "Nome": "Introdução à Criptografia",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Matemática Discreta"
+        ]
+    },
+    {
+        "Nome": "Métodos Matemáticos II",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Cálculo Diferencial e Integral II",
+            "Métodos Matemáticos I"
+        ]
+    },
+    {
+        "Nome": "Métodos Numéricos III",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": [
+            "Métodos Numéricos II"
+        ]
+    },
+    {
+        "Nome": "Tópicos Avançados I",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Tópicos Avançados II",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Tópicos Avançados III",
+        "Cŕeditos": "04",
+        "Carga Horária": "60",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Tópicos Especiais em Ciência de Dados e Inteligência Artificial I",
+        "Cŕeditos": "02",
+        "Carga Horária": "30",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Tópicos Especiais em Ciência de Dados e Inteligência Artificial II",
+        "Cŕeditos": "02",
+        "Carga Horária": "30",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Tópicos Especiais em Ciência de Dados e Inteligência Artificial III",
+        "Cŕeditos": "02",
+        "Carga Horária": "30",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Tópicos Especiais em Ciência de Dados e Inteligência Artificial IV",
+        "Cŕeditos": "02",
+        "Carga Horária": "30",
+        "Pré-requisitos": []
+    },
+    {
+        "Nome": "Tópicos Especiais em Ciência de Dados e Inteligência Artificial V",
+        "Cŕeditos": "02",
+        "Carga Horária": "30",
+        "Pré-requisitos": []
+    }
+]
