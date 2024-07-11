@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import type { Configuration } from 'webpack';
 
@@ -58,9 +58,9 @@ const config: Config = {
     ],
   ],
   plugins: [
-    
 
-    
+
+
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -77,36 +77,41 @@ const config: Config = {
         path: 'content/comunidade',
         routeBasePath: 'comunidade',
         sidebarPath: 'sidebars.ts',
-      },             
+      },
     ]
   ],
   themeConfig: {
     // Replace with your project's social card
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'CONVERGENCIA.XYZ',
       items: [
-/*        
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
-        {to: '/blog', label: 'Blog', position: 'left'},
-*/
+        /*        
+                {
+                  type: 'docSidebar',
+                  sidebarId: 'tutorialSidebar',
+                  position: 'left',
+                  label: 'Tutorial',
+                },
+                {to: '/blog', label: 'Blog', position: 'left'},
+        */
         {
           to: '/guias/',    // ./docs/Intro.md
           label: 'Guias',
           position: 'left',
           activeBaseRegex: `/guias/`,
-        },        
+        },
         {
           to: '/comunidade/',    // ./docs/Intro.md
           label: 'Comunidade',
           position: 'left',
           activeBaseRegex: `/comunidade/`,
-        },        
+        },
         {
           href: 'https://github.com/convergencia-xyz/portal',
           label: 'GitHub',
@@ -120,9 +125,9 @@ const config: Config = {
         {
           title: 'Projetos',
           items: [
-            { label: 'Code Sandbox', to: '/'},
-            { label: 'Fluxograma', to: '/'},
-            { label: 'Mobilidade Urbana', to: '/'},
+            { label: 'Code Sandbox', to: '/' },
+            { label: 'Fluxograma', to: '/' },
+            { label: 'Mobilidade Urbana', to: '/' },
           ],
         },
         {
