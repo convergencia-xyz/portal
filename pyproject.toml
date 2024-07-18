@@ -1,0 +1,29 @@
+[project]
+name = "convergencia"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [{ name = "Thiago Bezerra", email = "thiagobezerra.dev@gmail.com" }]
+dependencies = ["django>=5.0.7", "ruff>=0.5.2", "pre-commit>=3.7.1"]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = { text = "MIT" }
+
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.scripts]
+pre-commit-install = "pre-commit install"
+format = "ruff format"
+lint = "ruff check"
+lint-fix = "ruff check --fix"
+dev = "python manage.py runserver"
+
+[tool.ruff.lint]
+extend-select = [
+    "UP", # pyupgrade
+    "D",  # pydocstyle
+]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"

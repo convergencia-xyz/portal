@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ms-python.python", // Extensão oficial do Python
+        "charliermarsh.ruff-vscode" // Extensão Ruff para linting
+    ],
+    "unwantedRecommendations": []
+}
