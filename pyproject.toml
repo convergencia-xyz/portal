@@ -14,6 +14,7 @@ distribution = false
 
 [tool.pdm.scripts]
 pre-commit-install = "pre-commit install"
+pre-commit = "pre-commit run --all-files"
 format = "ruff format"
 lint = "ruff check"
 lint-fix = "ruff check --fix"
